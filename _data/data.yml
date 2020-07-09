@@ -41,27 +41,23 @@ sidebar:
 #       Second paragraph if required.
 education:
     - degree: Industrial and System Engineering (M.S)
-      university: KAIST(Korea Advanced Institute of Science and Technology) 
+      university: KAIST | 
+      (Korea Advanced Institute of Science and Technology) 
       time: 2020 - present
       details: |
         Data Mining Lab advised by Jae-Gil Lee
     - degree: Industrial and Management Engineering (B.S)
-      university: POSTECH(Pohang University of Science and Technology)
+      university: POSTECH | 
+      (Pohang University of Science and Technology)
       time: 2013.03 - 2017.02
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
     - role: Data Analyst
       time: 2018.09 - 2020.02
       company: Fitogether Inc.
       details: |
-        Fitogether, Innovating the Sports Culture Using IT Technology \n
+        Fitogether, Innovating the Sports Culture Using IT Technology.
         Based on an wearable EPTS with own technology, 
         Fitogether measures player / team data during sports (association football) activities, 
         and runs an analytics service ‘OhCoach’ using the data.
