@@ -78,50 +78,32 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Samsung SDS
-        tagline: "Platform proposal that provides new value to storage (SSD/UFS) consumers (data providers)"
-                 "Storage-based Platform Model Business Idea Research Project"
+      - title: Samsung SDS: Platform proposal that provides new value to storage (SSD/UFS) consumers (data providers)
+        tagline: "Storage-based Platform Model Business Idea Research Project"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Hi-COVIDNet: Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Minseok Kim, A A, Jae-Gil Lee, Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min and Youngeun Nam
+        conference: DKK, 2020
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Query
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: C, C++
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: R
         level: 60%
+
+      - name: Java
+        level: 50%
