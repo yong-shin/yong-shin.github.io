@@ -41,12 +41,12 @@ sidebar:
 #       Second paragraph if required.
 education:
     - degree: Industrial and System Engineering (M.S)
-      university: KAIST
+      university: KAIST(Korea Advanced Institute of Science and Technology) 
       time: 2020 - present
       details: |
         Data Mining Lab advised by Jae-Gil Lee
     - degree: Industrial and Management Engineering (B.S)
-      university: POSTECH
+      university: POSTECH(Pohang University of Science and Technology)
       time: 2013.03 - 2017.02
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -78,13 +78,13 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Samsung SDS Platform proposal that provides new value to storage consumers
+      - title: Samsung SDS | Platform proposal that provides new value to storage consumers
         tagline: "Storage-based Platform Model Business Idea Research Project"
 
 publications:
     title: Publications
     papers:
-      - title: Hi-COVIDNet Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea
+      - title: Hi-COVIDNet | Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea
         link: "#"
         authors: Minseok Kim, A A, Jae-Gil Lee, Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min and Youngeun Nam
         conference: KDD, 2020
