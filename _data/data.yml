@@ -41,14 +41,12 @@ sidebar:
 #       Second paragraph if required.
 education:
     - degree: Industrial and System Engineering (M.S)
-      university: KAIST | 
-      (Korea Advanced Institute of Science and Technology) 
+      university: KAIST | (Korea Advanced Institute of Science and Technology) 
       time: 2020 - present
       details: |
         Data Mining Lab advised by Jae-Gil Lee
     - degree: Industrial and Management Engineering (B.S)
-      university: POSTECH | 
-      (Pohang University of Science and Technology)
+      university: POSTECH | (Pohang University of Science and Technology)
       time: 2013.03 - 2017.02
       details: |
 
