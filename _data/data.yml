@@ -15,6 +15,7 @@ sidebar:
     email: maradonam@kaist.ac.kr
     phone: 010 9596 0615
     website: bit.ly/maradonam #do not add http://
+    instagram: zero__is_two
     linkedin: youngeunnam
     github: zeroistwo
     telegram: # add your nickname without '@' sign
@@ -79,7 +80,7 @@ projects:
     assignments:
       - title: Samsung SDS
         tagline: "Platform proposal that provides new value to storage (SSD/UFS) consumers (data providers)"
-        tagline: "Storage-based Platform Model Business Idea Research Project"
+                 "Storage-based Platform Model Business Idea Research Project"
 
 publications:
     title: Publications
