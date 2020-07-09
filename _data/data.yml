@@ -84,7 +84,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: Hi-COVIDNet': Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea
+      - title: Hi-COVIDNet Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea
         link: "#"
         authors: Minseok Kim, A A, Jae-Gil Lee, Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min and Youngeun Nam
         conference: KDD, 2020
