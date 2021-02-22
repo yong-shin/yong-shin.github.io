@@ -90,10 +90,10 @@ skills:
 
     toolset:
       - name: Python
-        level: 90%
+        level: 70%
 
       - name: SQL
-        level: 70%
+        level: 50%
 
       - name: C, C++
         level: 50%
