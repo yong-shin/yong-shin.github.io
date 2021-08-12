@@ -123,10 +123,6 @@ experiences:
       company: Global Vision Christian School (GVCS)
       details: |
         초*중학생에게 영어 강의. 30명의 원어민 강사들과 함께 강사로 참여했음. 
-#     - role: Accountant
-#       time: 2017.03 - 2019.08
-#       company: International freshmen orientation, HGU
-#       details: 200명 규모의 외국인 신입생 대상 오리엔테이션 회계 총 6학기 동안 진행. 매번 3천만원 규모의 예산 운영 계획 수립 및 집행함.  
     - role: Accountant
       time: 2017.03 - 2019.08
       company: International freshmen orientation, HGU
@@ -153,6 +149,27 @@ projects:
         tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors”
       - title: KAIST | [KSE801] Sensor Data Science (Course Project)
         tagline: Emotion recognition with mobile phone & wearable sensor data
+
+projects:
+    title: Course Projects
+    assignments:
+      - title: KAIST | Digital Therapeutics(DTx)
+        tagline: Development of fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development
+      - title: KAIST | Smart Mask
+        tagline: Development of emotional and stress monitoring algorithm through smart mask sensor data    
+      - title: KAIST | Contact Tracing
+        tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity
+      - title: KAIST | [Course Project]
+        details: 
+      
+      
+      - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
+        tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
+      - title: KAIST | [KSE526] Analytical Methodologies for Big Data (Course Project)
+        tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors”
+      - title: KAIST | [KSE801] Sensor Data Science (Course Project)
+        tagline: Emotion recognition with mobile phone & wearable sensor data
+
 
 
 publications:
