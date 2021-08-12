@@ -113,11 +113,11 @@ experiences:
 #       company: HGU
 #       details: |
 #         경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행. 
-    - role: Teaching Assistant (Tutoring for foreigner)
-      time: 2017.09 - 2017.12
-      company: HGU
-      details: |
-        회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
+#     - role: Teaching Assistant (Tutoring for foreigner)
+#       time: 2017.09 - 2017.12
+#       company: HGU
+#       details: |
+#         회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
     - role: English Teacher
       time: 2017.05 - 2017.09
       company: Global Vision Christian School (GVCS)
