@@ -7,17 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: YoungEun Nam
+    name: Yongshin Kim
     tagline: Researcher
-    avatar: profile_black.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: youngeun.nam@kaist.ac.kr
-#     phone: (+82)10 9596 0615
-    website: maradonam #do not add http://
-    instagram: zero__is_two
-    linkedin: youngeunnam
-    github: young-eun-nam
+    email: ys.k@kaist.ac.kr
+#     phone: 010 2729 4727
+#     website: blog.webjeda.com #do not add http://
+    linkedin: yskim93
+    github: yskim93
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,15 +24,30 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+#     pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      - idiom: Korean
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+#       - idiom: Spanish
+#         level: Professional
 
     interests:
-      - item: Futsal
-        link: https://www.instagram.com/fs_shootart/
-      - item: Data Mining
-      - item: Machine Learning
+      - item: Causal Inference
+        link:
+
+      - item: Statistical Data Analysis
+        link:
+
+      - item: Human-Computer Interaction
+        link:
 
 # career-profile:
-#     title: About Me
+#     title: Career Profile
 #     summary: |
 #       Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #       adipiscing elit. You can [download this free resume/CV template here]().
@@ -42,48 +56,118 @@ sidebar:
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
 education:
-    - degree: Industrial and System Engineering (M.S)
+    - degree: Knowledge Service Engineering (M.S.)
       university: KAIST | Korea Advanced Institute of Science and Technology
       time: 2020 - present
       details: |
-        Data Mining Lab advised by Jae-Gil Lee
-    - degree: Industrial and Management Engineering (B.S)
-      university: POSTECH | Pohang University of Science and Technology
-      time: 2013.03 - 2017.02
+        Interactive Computing Lab advised by Uichin Lee
+   
+    - degree: Mathematics and Statistics (B.A.)
+      university: HGU | Handong Global University
+      time: 2014 - 2020
       details: |
+
 
 experiences:
     - role: Data Analyst
-      time: 2018.09 - 2020.02
-      company: Fitogether Inc.
+      time: 2020.08 - 2022.07(expected) 
+      company: KAIST
       details: |
-        Fitogether, Innovating the Sports Culture Using IT Technology.
-        Based on an wearable EPTS with own technology, 
-        Fitogether measures player / team data during sports (association football) activities, 
-        and runs an analytics service ‘OhCoach’ using the data.
-          - Internated at a sports data analysis startup and produced manuals for Fitogether 'Ohcoach' service users at the '2018 K League U17/U18 Championship'.
-          - Creating crawling module with basic and detail information about K League K1, K2, R League and ACL competition.
-          - Creating the'Register' module, the foundation for data analysis using the Python language, and Impletenting the algorithm. 
-          In particular, I felt interesting about the experiences that I experienced on sports and contributed to the launch of a soccer data analysis web service.
-    - role: Software Engineer
-      time: 2017.01 - 2017.12
-      company: Hyundai Autoever
+        석사 연구원 과정을 Interactive Computing Lab advised by Uichin Lee에서 진행. 데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트 수행.
+        특히, 매칭, CCM 등의 인과분석 테크닉을 공부하고 시스템을 구축해 관측 센서 데이터를 활용한 인과분석 플랫폼 구축.
+    - role: Mentor
+      time: 2020.03 - 2020.07
+      company: Vision in Calling, HGU
       details: |
-        Working at Hyundai Autoever IT Jobs Finance Team (Hyundai Card, Capital, Commercial)
-          - ‘Hyundai Card/Capital/Commercial Blockchain Platform Construction and Service Challenge Implementation’ Project Developer
+        한동대학교 VIC(Vision in Calling) 스쿨 주관 "세상을 변화시키는 10대 프로젝트"의 멘토로 참여. 멘토로서 중고등학생들이 스스로 문제를 발굴하고 해결책을 제안하도록 도움을 줌.
+        우수 프로젝트로 선정 됐으며, 한동대학교 총장상을 수여받음.
+    - role: Director
+      time: 2019.12 - 2020.07
+      company: Dep. of General Affairs, Student Government, HGU
+      details: |
+        총학생회 총무국장 역임. 1억원 정도의 학생경비의 예산 
+    - role: Data Analyst
+      time: 2019.08 - 2020.02
+      company: Mathematics and Statistics major, HGU
+      details: |
+       수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
+    - role: Director
+      time: 2019.07 - 2020.02
+      company: Technological entrepreneurship Lab, HGU
+      details: |
+       수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
+    - role: Executive
+      time: 2019.07 - 2020.02
+      company: Residential College of International Dormitory, HGU
+      details: |
+       학생 기숙사 관리자. 각종 이벤트 진행
+    - role: Data Analyst
+      time: 2018.08 - 2020.07
+      company: Technological entrepreneurship Lab, HGU
+      details: |
+        학부 연구원을 Technological entrepreneurship Lab advised by Doohee Chung에서 진행. 데이터 분석가로서 기술창업과 관련된 프로젝트 수행.
+        조절효과, 매개효과 등을 SPSS, STATA, AMOS를 통해 분석
+    - role: Manager
+      time: 2018.03 - 2018.09
+      company: Handong English Camp, HGU
+      details: |
+        한동 영어 캠프 매니저. 300명 정도의 초*중학생을 대상으로 2개월 동안 캠프 진행.         
+    - role: Teaching Assistant
+      time: 2018.03 - 2018.07
+      company: HGU
+      details: |
+        경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행. 
+    - role: Teaching Assistant (Tutoring for foreigner)
+      time: 2017.09 - 2017.12
+      company: HGU
+      details: |
+        회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
+    - role: English Teacher
+      time: 2017.05 - 2017.09
+      company: Global Vision Christian School (GVCS)
+      details: |
+        초*중학생에게 영어 강의. 30명의 원어민 강사들과 함께 강사로 참여했음. 
+    - role: Accountant
+      time: 2017.03 - 2019.08
+      company: International freshmen orientation, HGU
+      details: |
+        200명 규모의 외국인 신입생 대상 오리엔테이션 회계 총 6학기 동안 진행. 매번 3천만원 규모의 예산
+
+
 projects:
     title: Projects
     assignments:
-      - title: Samsung SDS | Platform proposal that provides new value to storage consumers
-        tagline: "Storage-based Platform Model Business Idea Research Project"
+      - title: KAIST | Digital Therapeutics(DTx)
+        link: ""
+        tagline: Development of fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development
+      - title: KAIST | Smart Mask
+        tagline: Development of emotional and stress monitoring algorithm through smart mask sensor data    
+      - title: KAIST | Contact Tracing
+        tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity
+      - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
+        tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
+      - title: KAIST | [KSE526] Analytical Methodologies for Big Data (Course Project)
+        tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors”
+      - title: KAIST | [KSE801] Sensor Data Science (Course Project)
+        tagline: Emotion recognition with mobile phone & wearable sensor data
+
 
 publications:
     title: Publications
     papers:
-      - title: Hi-COVIDNet | Deep Learning Approach to Predict Inbound COVID-19 Patients and Case Study in South Korea
-        link: "https://www.researchgate.net/publication/343106438_Hi-COVIDNet_Deep_Learning_Approach_to_Predict_Inbound_COVID-19_Patients_and_Case_Study_in_South_Korea"
-        authors: Minseok Kim, A A, Jae-Gil Lee, Junhyeok Kang, Doyoung Kim, Hwanjun Song, Hyangsuk Min and Youngeun Nam
-        conference: KDD, 2020
+      - title: Causal Analysis of Observational Mobile Sensor Data&#58; A Comparative Study
+        link: ""
+        authors: Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee
+        conference: TBD
+      - title: The Effect of Intellectual Property-Based Startups on Employment
+        link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09296108&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR"
+        authors: Haejun Jung, YongShin Kim, Doohee Chung
+        conference: Korea Technology Innovation Society, 2019
+      - title: Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy
+        link: "https://www.koreascience.or.kr/article/JAKO201921853968627.page"
+        authors: Seung-Lin Yang, Yongshin Kim, Doohee Chung
+        conference: Journal of Technology Innovation, 2019
+
 
 skills:
     title: Skills &amp; Proficiency
