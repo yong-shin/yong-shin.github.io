@@ -70,24 +70,24 @@ education:
 
 
 experiences:
-    - role: Data Analyst
+    - role: Researcher
       time: 2020.08 - 2022.07(expected) 
       company: KAIST
       details: |
         석사 연구원 과정을 Interactive Computing Lab advised by Uichin Lee에서 진행. 데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트 수행.
         특히, 매칭, CCM 등의 인과분석 테크닉을 공부하고 시스템을 구축해 관측 센서 데이터를 활용한 인과분석 플랫폼 구축.
-    - role: Mentor
-      time: 2020.03 - 2020.07
-      company: Vision in Calling, HGU
-      details: |
-        한동대학교 VIC(Vision in Calling) 스쿨 주관 "세상을 변화시키는 10대 프로젝트"의 멘토로 참여. 멘토로서 중고등학생들이 스스로 문제를 발굴하고 해결책을 제안하도록 도움을 줌.
-        우수 프로젝트로 선정 됐으며, 한동대학교 총장상을 수여받음.
+#     - role: Mentor
+#       time: 2020.03 - 2020.07
+#       company: Vision in Calling, HGU
+#       details: |
+#         한동대학교 VIC(Vision in Calling) 스쿨 주관 "세상을 변화시키는 10대 프로젝트"의 멘토로 참여. 멘토로서 중고등학생들이 스스로 문제를 발굴하고 해결책을 제안하도록 도움을 줌.
+#         우수 프로젝트로 선정 됐으며, 한동대학교 총장상을 수여받음.
     - role: Director
       time: 2019.12 - 2020.07
       company: Dep. of General Affairs, Student Government, HGU
       details: |
         총학생회 총무국장 역임. 1억원 정도의 학생경비 예산 운영 계획을 수립, 집행하면서 각종 교내/외 행사 기획 및 운영. 
-    - role: Data Analyst
+    - role: Researcher
       time: 2019.08 - 2020.02
       company: Mathematics and Statistics major, HGU
       details: |
