@@ -87,21 +87,16 @@ experiences:
       company: Dep. of General Affairs, Student Government, HGU
       details: |
         총학생회 총무국장 역임. 1억원 정도의 학생경비 예산 운영 계획을 수립, 집행하면서 각종 교내/외 행사 기획 및 운영. 
-    - role: Researcher
-      time: 2019.08 - 2020.02
-      company: Mathematics and Statistics major, HGU
-      details: |
-       수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
-    - role: Director
-      time: 2019.07 - 2020.02
-      company: Technological entrepreneurship Lab, HGU
-      details: |
-       수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
-    - role: Executive
-      time: 2019.07 - 2020.02
-      company: Residential College of International Dormitory, HGU
-      details: |
-       학생 기숙사 관리자. 각종 이벤트 진행
+#     - role: Researcher
+#       time: 2019.08 - 2020.02
+#       company: Mathematics and Statistics major, HGU
+#       details: |
+#        수학통계학 연구원으로서 조절효과와 매개효과 분석에 대한 연구 진행. advised by Heonjoo Kim.
+#     - role: Executive
+#       time: 2019.07 - 2020.02
+#       company: Residential College of International Dormitory, HGU
+#       details: |
+#        학생 기숙사 관리자. 각종 이벤트 진행
     - role: Data Analyst
       time: 2018.08 - 2020.07
       company: Technological entrepreneurship Lab, HGU
@@ -113,11 +108,11 @@ experiences:
       company: Handong English Camp, HGU
       details: |
         한동 영어 캠프 매니저. 300명 정도의 초*중학생을 대상으로 2개월 동안 캠프 진행.         
-    - role: Teaching Assistant
-      time: 2018.03 - 2018.07
-      company: HGU
-      details: |
-        경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행. 
+#     - role: Teaching Assistant
+#       time: 2018.03 - 2018.07
+#       company: HGU
+#       details: |
+#         경영 IT 실무 전공 수업 조교. advised by I-Soo Joe. 한 학기 동안 학생들에게 엑셀 강의 진행. 
     - role: Teaching Assistant (Tutoring for foreigner)
       time: 2017.09 - 2017.12
       company: HGU
