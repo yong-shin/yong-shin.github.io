@@ -170,16 +170,22 @@ skills:
 
     toolset:
       - name: Python
+        level: 80%
+
+      - name: R
         level: 70%
+
+      - name: STATA
+        level: 50%
+
+      - name: SPSS
+        level: 70%
+
+      - name: AMOS
+        level: 60%
 
       - name: SQL
         level: 50%
 
-      - name: C, C++
-        level: 50%
-
-      - name: R
-        level: 60%
-
-      - name: Java
-        level: 50%
+      - name: Excel
+        level: 80%
