@@ -52,7 +52,7 @@ career-profile:
     link: ""
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]("https://github.com/yong-shin/yong-shin.github.io/blob/77696a082d72d6800298ca6a6208a9c3ea585c84/assets/pdf/Yongshin_Kim_CV_2021.06.pdf").
+      adipiscing elit. You can [download this free resume/CV template here](assets/pdf/Yongshin_Kim_CV_2021.06.pdf).
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
@@ -142,12 +142,12 @@ projects:
       - title: KAIST | Contact Tracing
         link: "assets/pdf/Contact tracing_KETI.pdf"
         tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity      
-#       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
-#         tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
-#       - title: KAIST | [KSE526] Analytical Methodologies for Big Data (Course Project)
-#         tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors”
-#       - title: KAIST | [KSE801] Sensor Data Science (Course Project)
-#         tagline: Emotion recognition with mobile phone & wearable sensor data
+      - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
+        tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
+      - title: KAIST | [KSE526] Analytical Methodologies for Big Data (Course Project)
+        tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors”
+      - title: KAIST | [KSE801] Sensor Data Science (Course Project)
+        tagline: Emotion recognition with mobile phone & wearable sensor data
 
 publications:
     title: Publications
