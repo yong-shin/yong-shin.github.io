@@ -139,6 +139,7 @@ projects:
       - title: KAIST | Smart Mask
         tagline: Development of emotional and stress monitoring algorithm through smart mask sensor data    
       - title: KAIST | Contact Tracing
+        link: "assets/pdf/Contact tracing_KETI.pdf"
         tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity      
 #       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
 #         tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
