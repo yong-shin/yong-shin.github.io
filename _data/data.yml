@@ -103,7 +103,7 @@ experiences:
       details: |
         학부 연구원을 Technological entrepreneurship Lab advised by Doohee Chung에서 진행. 데이터 분석가로서 기술창업과 관련된 프로젝트 수행.
         조절효과, 매개효과 등을 SPSS, STATA, AMOS를 통해 분석
-    - role: Manager
+    - role: Program Manager
       time: 2018.03 - 2018.09
       company: Handong English Camp, HGU
       details: |
@@ -118,8 +118,8 @@ experiences:
 #       company: HGU
 #       details: |
 #         회계실무 전공 수업 조교. advised by Hyunmo Sung. 한 학기 동안 외국인 학생을 대상으로 튜터링 진행. 모든 수업은 영어로 진행 됐음.
-    - role: English Teacher
-      time: 2017.05 - 2017.09
+    - role: English Instructor
+      time: 2017.03 - 2017.11
       company: Global Vision Christian School (GVCS)
       details: |
         초*중학생에게 영어 강의. 30명의 원어민 강사들과 함께 강사로 참여했음. 
@@ -140,7 +140,10 @@ projects:
       - title: KAIST | Contact Tracing
         tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity
       - title: KAIST | [Course Project]
-        details: 
+        details: |
+            [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
+                - “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
+
       
       
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
