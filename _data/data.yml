@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yongshin Kim
@@ -63,7 +63,6 @@ education:
       time: 2020 - present
       details: |
         Interactive Computing Lab advised by Uichin Lee
-        [download this free resume/CV template here](assets/pdf/Yongshin_Kim_CV_2021.06.pdf)
     - degree: Mathematics and Statistics (B.A.)
       university: HGU | Handong Global University
       time: 2014 - 2020
