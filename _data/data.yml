@@ -48,8 +48,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
-    link: ""
+#     title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here](assets/pdf/Yongshin_Kim_CV_2021.06.pdf).
@@ -147,7 +146,7 @@ projects:
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
         tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors” (Course Project)
       - title: KAIST | [KSE801] Sensor Data Science
-        tagline: Emotion recognition with mobile phone & wearable sensor data (Course Project)
+        tagline: Emotion recognition with mobile phone & wearable sensor data (Course Project) [download this free resume/CV template here](assets/pdf/Yongshin_Kim_CV_2021.06.pdf)
 
 publications:
     title: Publications
