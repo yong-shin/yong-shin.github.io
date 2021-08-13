@@ -12,7 +12,12 @@
 
   <div class="summary">
     {{ career-profile.summary | markdownify }}
+    {% if career-profile.link %}
+    <a href="{{ career-profile.link }}" target="_blank">{{ career-profile.title }}</a>
+    {% else %}
   </div><!--//summary-->
-    
+   
+  
+  
 </section><!--//section-->
 {% endif %}
