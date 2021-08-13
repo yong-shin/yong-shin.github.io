@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ys.k@kaist.ac.kr
 #     phone: 010 2729 4727
-#     website: blog.webjeda.com #do not add http://
+    website: scholar.google.co.kr/citations?user=dVKNaOAAAAAJ&hl=ko&oi=sra #do not add http://
     linkedin: yskim93
     github: yong-shin
 #     Facebook: https://bit.ly/Yongshin
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/yong-shin/yong-shin.github.io/blob/719a9b95bb292535b09d88f93d910b0678d897ad/assets/pdf/Yongshin_Kim_CV_2021.06.pdf
+#     pdf: 
 
     languages:
       - idiom: Korean
