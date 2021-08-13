@@ -151,10 +151,11 @@ publications:
     title: Publications
     papers:
       - title: Causal Analysis of Observational Mobile Sensor Data&#58; A Comparative Study
-        authors: Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee
-        conference: TBD
-      - title: The Effect of Intellectual Property-Based Startups on Employment
         link: "assets/pdf/Causal Analysis of Observational Mobile Sensor Data_A Comparative Study.pdf"
+        authors: Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee
+        conference: To be determined
+      - title: The Effect of Intellectual Property-Based Startups on Employment
+        link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
         authors: Haejun Jung, YongShin Kim, Doohee Chung
         conference: Korea Technology Innovation Society, 2019
       - title: Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy
