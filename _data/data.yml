@@ -136,12 +136,12 @@ projects:
     title: Projects
     assignments:
       - title: KAIST | Digital Therapeutics(DTx)
-        tagline: Development of fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development
+        tagline: Develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development
       - title: KAIST | Smart Mask
-        tagline: Development of emotional and stress monitoring algorithm through smart mask sensor data    
+        tagline: Develop emotional and stress monitoring algorithm through smart mask sensor data    
       - title: KAIST | Contact Tracing
         link: "assets/pdf/Contact tracing_KETI.pdf"
-        tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity      
+        tagline: Develop risk scoring algorithms that can be used to analyze and validate COVID-19 confirmed cases   
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
         tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)” (Course Project)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
