@@ -179,11 +179,8 @@ skills:
       - name: STATA
         level: 50%
 
-      - name: SPSS
+      - name: SPSS & AMOS
         level: 70%
-
-      - name: AMOS
-        level: 60%
 
       - name: SQL
         level: 50%
