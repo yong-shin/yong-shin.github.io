@@ -142,12 +142,12 @@ projects:
       - title: KAIST | Contact Tracing
         link: "assets/pdf/Contact tracing_KETI.pdf"
         tagline: Development of a risk-scoring algorithm that can be used to tack COVID-19 confirmed cases and to verify its validity      
-      - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design (Course Project)
-        tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)”
-      - title: KAIST | [KSE526] Analytical Methodologies for Big Data (Course Project)
-        tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors”
-      - title: KAIST | [KSE801] Sensor Data Science (Course Project)
-        tagline: Emotion recognition with mobile phone & wearable sensor data
+      - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
+        tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)” (Course Project)
+      - title: KAIST | [KSE526] Analytical Methodologies for Big Data
+        tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors” (Course Project)
+      - title: KAIST | [KSE801] Sensor Data Science
+        tagline: Emotion recognition with mobile phone & wearable sensor data (Course Project)
 
 publications:
     title: Publications
