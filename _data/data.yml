@@ -77,7 +77,7 @@ education:
 experiences:
     - role: Researcher
       time: 2020.08 - 2022.07(expected) 
-      company: KAIST
+      company: Interactive Computing Lab, KAIST
       details: |
         데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트를 진행했습니다. 현재는 DTx 프로젝트에 전념해서,
         매칭, CCM 등의 인과분석 테크닉을 공부하고 적용하여 관측 센서 데이터를 활용해 디지털 치료제의 효과를 분석하는 플랫폼을 개발 중임.
