@@ -139,25 +139,25 @@ projects:
     title: Projects
     assignments:
       - title: KAIST | Digital Therapeutics(DTx)
-        tagline: Develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development
+        tagline: Develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
         details: |
             -  Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee, “[Causal Analysis of
                Observational Mobile Sensor Data: A Comparative Study](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
                Conference, Jeju Island, Korea (2021)
       - title: KAIST | Smart Mask
-        tagline: Develop emotional and stress monitoring algorithm through smart mask sensor data    
+        tagline: Develop emotional and stress monitoring algorithm through smart mask sensor data.   
       - title: KAIST | Contact Tracing
         link: "assets/pdf/Contact tracing_KETI.pdf"
-        tagline: Develop risk scoring algorithms that can be used to analyze and validate COVID-19 confirmed cases   
+        tagline: Develop risk scoring algorithms that can be used to analyze and validate COVID-19 confirmed cases.   
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
         link: "assets/pdf/Step-by-step Self-reliant Thinking with CAN(Communicative ARt Network).pdf"
-        tagline: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)” (Course Project)
+        details: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)” (Course Project)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
         link: "assets/pdf/EFNet Attention based CNN-LSTM Networks forEnergy Usage Forecasting with External Factors.pdf"
-        tagline: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors” (Course Project)
+        details: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors” (Course Project)
       - title: KAIST | [KSE801] Sensor Data Science
         link: "assets/pdf/Emotion recognition with mobile phone & wearable sensor data.pdf"
-        tagline: Emotion recognition with mobile phone & wearable sensor data (Course Project)
+        details: Emotion recognition with mobile phone & wearable sensor data (Course Project)
 
 publications:
     title: Publications
