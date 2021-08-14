@@ -147,17 +147,18 @@ projects:
       - title: KAIST | Smart Mask
         tagline: Develop emotional and stress monitoring algorithm through smart mask sensor data.   
       - title: KAIST | Contact Tracing
-        link: "assets/pdf/Contact tracing_KETI.pdf"
-        tagline: Develop risk scoring algorithms that can be used to analyze and validate COVID-19 confirmed cases.   
+        tagline: Develop risk scoring algorithms that can be used to analyze and validate COVID-19 confirmed cases.
+        details: |
+            -[Experiment Report&#58; BLE based contact detection algorithm](yong-shin.github.io/assets/pdf/Contact tracing_KETI.pdf)
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
-        link: "assets/pdf/Step-by-step Self-reliant Thinking with CAN(Communicative ARt Network).pdf"
-        details: “Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)” (Course Project)
+        details: | 
+            -“[Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)](yong-shin.github.io/assets/pdf/Step-by-step Self-reliant Thinking with CAN(Communicative ARt Network).pdf)” (Course Project)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
-        link: "assets/pdf/EFNet Attention based CNN-LSTM Networks forEnergy Usage Forecasting with External Factors.pdf"
-        details: “EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors” (Course Project)
+        details: |
+            -“[EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors](yong-shin.github.io/assets/pdf/EFNet Attention based CNN-LSTM Networks forEnergy Usage Forecasting with External Factors.pdf)” (Course Project)
       - title: KAIST | [KSE801] Sensor Data Science
-        link: "assets/pdf/Emotion recognition with mobile phone & wearable sensor data.pdf"
-        details: Emotion recognition with mobile phone & wearable sensor data (Course Project)
+        details: |
+            -[Emotion recognition with mobile phone & wearable sensor data](yong-shin.github.io/assets/pdf/Emotion recognition with mobile phone & wearable sensor data.pdf) (Course Project)
 
 publications:
     title: Publications
