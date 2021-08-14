@@ -26,8 +26,9 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    CV: CV2
     google: Yongshin_Kim
-    CV: CV #Just type "CV". You can edit in /_includes/contact.html
+#     CV: CV #Just type "CV". You can edit in /_includes/contact.html
 #     pdf: 
 
     languages:
