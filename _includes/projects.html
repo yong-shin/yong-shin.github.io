@@ -32,9 +32,7 @@
       {% endif %}
       
       {% if project.details %}
-      <div class="details">
-        {{ project.details | markdownify }}
-      </div><!--//details-->
+      <span class="project-details">{{ project.details | markdownify }}</span>
       {% endif %}       
       
     </div><!--//item-->
