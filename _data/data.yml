@@ -152,7 +152,9 @@ projects:
                Observational Mobile Sensor Data: A Comparative Study](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
                Conference, Jeju Island, Korea (2021)
       - title: KAIST | Smart Mask
-        tagline: Develop emotional and stress monitoring algorithm through smart mask sensor data.   
+        tagline: Develop emotional and stress monitoring algorithm through smart mask sensor data.
+        details: |
+            - [Project_Smart Mask](https://yong-shin.github.io/assets/pdf/Project_Smart Mask.pdf)        
       - title: KAIST | Contact Tracing
         tagline: Develop risk scoring algorithms that can be used to analyze and validate COVID-19 confirmed cases.
         details: |
