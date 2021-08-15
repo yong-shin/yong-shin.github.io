@@ -175,16 +175,17 @@ projects:
                Observational Mobile Sensor Data: A Comparative Study](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
                Conference, Jeju Island, Korea (2021)
       - title: KAIST | Smart Mask
-        tagline: |
-            Since everyone uses masks due to COVID-19, we review existing types of smart masks and study what sensor data can be collected through smart masks.
+        tagline: 
+            These days, everyone uses masks due to COVID-19. We review existing types of smart masks and study what sensor data can be collected through smart masks.
             Also, we develop emotional and stress monitoring algorithm through smart mask sensor data.
 #         코로나로 인해 모두가 마스크를 사용하는 오늘 날, 현존하는 스마트 마스크 종류를 리뷰하고, 스마트 마스크를 통해서 어떠한 센서 데이터를 수집할 수 있는 지 연구함.
         details: |
             - [Project_Smart Mask](https://yong-shin.github.io/assets/pdf/Project_Smart Mask.pdf)        
       - title: KAIST | Contact Tracing
-        tagline: Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.또한 확진자와 직접 
-                 접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다. 
-                 place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
+        tagline: |
+            Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.또한 확진자와 직접 
+            접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다. 
+            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
         details: |
             - [Experiment Report&#58; BLE based contact detection algorithm](https://yong-shin.github.io/assets/pdf/Contact%20tracing_KETI.pdf)
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
