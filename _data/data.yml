@@ -85,9 +85,9 @@ experiences:
       time: 2020.08 - 2022.07(expected) 
       company: Interactive Computing Lab, KAIST
       details: |
-#        Participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. Currently, I'm focusing on DTx project to develop
- #       a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also 
-  #      developing algorithms and interactive visualization platforms that use human biometric data to predict stress levels.
+        Participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. Currently, I'm focusing on DTx project to develop
+        a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also 
+        developing algorithms and interactive visualization platforms that use human biometric data to predict stress levels.
 #        데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트를 진행했습니다. 현재는 DTx 프로젝트에 전념해서,
 #        매칭, CCM 등의 인과분석 테크닉을 공부하고 적용하여 관측 센서 데이터를 활용해 디지털 치료제의 효과를 분석하는 플랫폼을 개발 중임.
 #        또한, 인간의 생체 데이터를 활용해 스트레스 정도를 예측하는 알고리즘 및 인터렉티브 가시화 플랫폼 개발.
@@ -101,9 +101,9 @@ experiences:
       time: 2019.12 - 2020.07
       company: Dep. of General Affairs, Student Government, HGU
       details: |
-#        I worked as a general affairs director in the student council. I managed a budget of about 100 million won for student expenses and established and 
- #       executed a large and small project funding plan. I also improved the maintenance and update of organizational documents, implementation of all necessary 
-  #      policies, and policies and procedures related to human resources.
+        I worked as a general affairs director in the student council. I managed a budget of about 100 million won for student expenses and established and 
+        executed a large and small project funding plan. I also improved the maintenance and update of organizational documents, implementation of all necessary 
+        policies, and policies and procedures related to human resources.
 #        총학생회 총무국장 수행. 1억원 정도의 학생경비 예산을 운영 했으며, 이 과정에서 크고 작은 사업 자금 계획을 수립 및 집행했음. 
 #     - role: Researcher
 #       time: 2019.08 - 2020.02
@@ -119,10 +119,10 @@ experiences:
       time: 2018.08 - 2020.07
       company: Technological entrepreneurship Lab, HGU
       details: |
-#        As an undergraduate researcher, I worked at the Technological entrepreneurship Lab supervised by Doohee Chung for data analysis.
- #       As a data analyst, I participated in various projects related to Technological Entrepreneurship. 
-  #      In particular, I used a number of statistical techniques, including hierarchical regression, to analyze moderating effects, mediating effects, etc. 
-   #     through SPSS, STATA, and AMOS.
+        As an undergraduate researcher, I worked at the Technological entrepreneurship Lab supervised by Doohee Chung for data analysis.
+        As a data analyst, I participated in various projects related to Technological Entrepreneurship. 
+        In particular, I used a number of statistical techniques, including hierarchical regression, to analyze moderating effects, mediating effects, etc. 
+        through SPSS, STATA, and AMOS.
 #        학부 연구원으로 Technological entrepreneurship Lab advised by Prof. Doohee Chung에서 데이터 분석 업무를 수행함. 데이터 분석가로서 기술창업과 관련된 각종 프로젝트 참여함.
 #        특히, 통계 기법들을 활용해 조절효과, 매개효과 등을 SPSS, STATA, AMOS를 통해 분석하는 업무 수행. 관련 논문은 국내 등재지에서 최우수 논문상을 받기도 함.
     - role: Program Manager
