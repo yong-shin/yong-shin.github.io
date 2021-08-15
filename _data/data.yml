@@ -55,11 +55,11 @@ career-profile:
     summary: |
       I'm a M.S. student in the Graduate School of Knowledge Service Engineering at [KAIST](https://www.kaist.ac.kr/en/). 
       Currently I am a member of [Interactive Computing Lab](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
-      [Prof. Uichin Lee](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee). These days, I am studying causal analysis. 
+      [Prof. Uichin Lee](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee). <br>These days, I am studying causal analysis. 
       Analyze time series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping). 
       I am also interested in statistical analysis that uses time series data to generate meaningful conclusions.
       I'm a consistent person. I do my best to carry out any task with responsibility.
-      Other than the academic things, I enjoy exercising. I like sports using racket such as badminton and tennis. 
+      <br>Other than the academic things, I enjoy exercising. I like sports using racket such as badminton and tennis. 
       Another hobby is playing Go. The rules are simple, but go requires very deep strategic thinking, which provides a rest for my busy life.
 #      저는 현재 인과분석을 연구 중입니다. 매칭, CCM 등의 인과분석 테크닉을 이용해 시계열 센서 데이터를 분석합니다.
 #      또한 시계열 데이터를 이용해 유의미한 결론을 만들어내는 통계 분석에 관심이 있습니다.
