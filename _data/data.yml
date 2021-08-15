@@ -169,14 +169,16 @@ projects:
     title: Projects
     assignments:
       - title: KAIST | Digital Therapeutics(DTx)
-        tagline: Develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
+        tagline: |
+            We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
+            Furthermore, we analyze the effectiveness of digital treatments by applying causal analysis.
         details: |
             -  Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee, “[Causal Analysis of
                Observational Mobile Sensor Data: A Comparative Study](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
                Conference, Jeju Island, Korea (2021)
       - title: KAIST | Smart Mask
-        tagline: 
-            These days, everyone uses masks due to COVID-19. We review existing types of smart masks and study what sensor data can be collected through smart masks.
+        tagline: |
+            We review existing types of smart masks and study what sensor data can be collected through smart masks.
             Also, we develop emotional and stress monitoring algorithm through smart mask sensor data.
 #         코로나로 인해 모두가 마스크를 사용하는 오늘 날, 현존하는 스마트 마스크 종류를 리뷰하고, 스마트 마스크를 통해서 어떠한 센서 데이터를 수집할 수 있는 지 연구함.
         details: |
