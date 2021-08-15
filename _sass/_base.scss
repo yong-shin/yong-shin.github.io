@@ -17,7 +17,7 @@ a {
     color: darken($theme-color, 15%);
     &:hover {
         text-decoration: underline;
-        color: darken($theme-color, 90%);
+        color: darken($theme-color, 30%);
     }
     &:focus {
         text-decoration: none;
