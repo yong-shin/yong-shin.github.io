@@ -185,9 +185,13 @@ projects:
             - [Project_Smart Mask](https://yong-shin.github.io/assets/pdf/Project_Smart Mask.pdf)        
       - title: KAIST | Contact Tracing
         tagline: |
-            Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.또한 확진자와 직접 
-            접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다. 
-            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
+            We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client device. 
+            In addition, the need to introduce place beacon is increasing as the number of cases infected with COVID increases just by staying in the same place 
+            without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive 
+            signals with client devices.
+#            Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.
+#            또한 확진자와 직접 접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다. 
+#            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
         details: |
             - [Experiment Report&#58; BLE based contact detection algorithm](https://yong-shin.github.io/assets/pdf/Contact%20tracing_KETI.pdf)
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
