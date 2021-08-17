@@ -38,8 +38,8 @@ p {
 
 .sidebar-wrapper {
     background: $theme-color;
-    position: fixed;
-    right: 100px;
+    position: absolute;
+    right: 0;
     width: 280px;
     height: 100%;
     min-height: 800px;
