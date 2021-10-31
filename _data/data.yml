@@ -174,8 +174,9 @@ projects:
         tagline: |
             We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN.
         details: |
-            -  [<u>[PPT]Fake video through voice and video synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
+            -  [<u>[PPT] Fake video through voice and video synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
             -  [<u>Demo video</u>](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
+            -  [<u>[PPT] Virtual Human</u>](https://docs.google.com/presentation/d/1N8KspTFLpTdppGixcv7XnbkUufEDHFdi8gE4fCgBam8/edit#slide=id.ge4027ddf73_0_0)
       - title: KAIST | Digital Therapeutics(DTx)
         tagline: |
             We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
@@ -210,7 +211,7 @@ projects:
             - “[<u>EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors</u>](https://yong-shin.github.io/assets/pdf/EFNet%20Attention%20based%20CNN-LSTM%20Networks%20forEnergy%20Usage%20Forecasting%20with%20External%20Factors.pdf)” (Course Project)
       - title: KAIST | [KSE801] Sensor Data Science
         details: |
-            - [<u>Emotion recognition with mobile phone & wearable sensor data</u>](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf) (Course Project)
+            - [<u>[PPT] Emotion recognition with mobile phone & wearable sensor data</u>](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf) (Course Project)
 
 publications:
     title: Publications
