@@ -170,7 +170,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Deepbrain AI | Video & Speech synthesis
+    - title: Deepbrain AI | Video & Speech synthesis
         tagline: |
             We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN.
         details: |
