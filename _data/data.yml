@@ -175,8 +175,8 @@ projects:
             We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN.
         details: |
             -  [<u>[PPT] Fake video through voice and video synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
+            -  [<u>[PPT] Virtual Human</u>](https://docs.google.com/presentation/d/1N8KspTFLpTdppGixcv7XnbkUufEDHFdi8gE4fCgBam8/edit?usp=sharing)
             -  [<u>Demo video</u>](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
-            -  [<u>[PPT] Virtual Human</u>](https://docs.google.com/presentation/d/1N8KspTFLpTdppGixcv7XnbkUufEDHFdi8gE4fCgBam8/edit#slide=id.ge4027ddf73_0_0)
       - title: KAIST | Digital Therapeutics(DTx)
         tagline: |
             We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
