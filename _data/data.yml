@@ -49,6 +49,9 @@ sidebar:
 
       - item: Human-Computer Interaction
         link:
+      
+      - item: Video & Speech synthesis
+        link:        
 
 career-profile:
     title: Welcome to Yongshin's page
@@ -164,7 +167,6 @@ experiences:
 #        매번 3천만원 규모의 예산을 운영 했으며, 프로그램 자금 계획을 수립 및 집행했음. 
 #        스태프들 또한 외국인이 대다수이기 때문에, 준비 과정부터 오리엔테이션이 끝날 때까지 영어로 소통하며 진행함.
 
-
 projects:
     title: Projects
     assignments:
@@ -172,7 +174,7 @@ projects:
         tagline: |
             We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN.
         details: |
-            -  [<u>Fake video through voice and video synthesis</u>](https://github.com/yong-shin/yong-shin.github.io/blob/45f87fd54b4ed54382606a5255906e446a3df62c/assets/pdf/Fake%20video.pdf)
+            -  [<u>Fake video through voice and video synthesis</u>](yong-shin.github.io/assets/pdf/Fake video.pdf)
     - title: KAIST | Digital Therapeutics(DTx)
         tagline: |
             We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
