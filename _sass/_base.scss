@@ -172,7 +172,7 @@ p {
 
     .experiences-section, .educations-section {
         .item {
-            margin-bottom: 300px;
+            margin-bottom: 30px;
         }
     }
     .upper-row {
@@ -194,8 +194,8 @@ p {
         color: $text-grey;
     }
     .company, .university {
-        margin-bottom: 10px;
-        color: $text-grey;
+        margin-bottom: 5px;
+        color: darken($theme-color, 15%);
     }
 
     .project-title {
