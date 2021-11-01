@@ -194,8 +194,8 @@ p {
         color: $text-grey;
     }
     .company, .university {
-        margin-bottom: 5px;
-        color: darken($theme-color, 15%);
+        margin-bottom: 3px;
+        color: $text-grey;
     }
 
     .project-title {
