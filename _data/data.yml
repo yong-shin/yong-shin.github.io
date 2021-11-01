@@ -207,12 +207,25 @@ projects:
 #        details: |
 #            - [<u>Experiment Report&#58; BLE based contact detection algorithm</u>](https://yong-shin.github.io/assets/pdf/Contact%20tracing_KETI.pdf)
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
+        tagline: |
+            We introduce a new interpretation of art experience by presenting CAN(Communicative Art Network), which allows viewers
+            to achieve self-reliant thinking based on their art experience. CAN is a platform that consists of CAN AR Comment System and CAN
+            SNS. We conducted a within-group experiment to explore how CAN influences the process of appreciating and sharing works of art. Our findings show that CAN allows users to accurately leave comments on artwork and select either voice or text input to effectively
+            record comments.
         details: | 
             - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network</u>)](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)” (Course Project)
+            - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1eYYdJaLrU1f3uUwvGD1NqW2Ooxt-x7VGwnH_661J9uQ/edit?usp=sharing)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
+        tagline: |
+            We propose EFNet(Energy usage Forecasting Network) which forecast energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
+            such as weather, calendar, oil price, and COVID-19 confirmed cases. We conduct experiments on the real-world data in South Korea and we demonstrate that the proposed model can effectively predict the energy usage and significantly
+            outperform other baseline models.
         details: |
             - “[<u>EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors</u>](https://yong-shin.github.io/assets/pdf/EFNet%20Attention%20based%20CNN-LSTM%20Networks%20forEnergy%20Usage%20Forecasting%20with%20External%20Factors.pdf)” (Course Project)
       - title: KAIST | [KSE801] Sensor Data Science
+        tagline: |
+            Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level.
+            The goal of the research was to predict people’s daily stress level from three different sets of data: 1) physical data 2) User info data 3) ESM data.
         details: |
             - [<u>[PPT] Emotion recognition with mobile phone & wearable sensor data</u>](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf) (Course Project)
 
