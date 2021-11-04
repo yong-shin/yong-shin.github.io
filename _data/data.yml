@@ -205,7 +205,7 @@ projects:
             without having to contact the confirmed patient directly. We also identify the coverage that place beacon can effectively send and receive 
             signals with client devices.
         details: |
-            - [Controlled Experiments](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
+            - [<u>Controlled Experiments</u>](https://docs.google.com/presentation/d/1WIOQEX3WJmOHljd_TbRm0fsnNfMzzux5nkGaaUamtfA/edit?usp=sharing)
 #            Develop risk scoring algorithms that can be used to analyze client device끼리의 BLE 접촉 탐지.
 #            또한 확진자와 직접 접촉하지 않고도 같은 장소에 머물렀다는 사실만으로 감염되는 사례가 증가함에 따라, place beacon을 도입할 필요성이 증가하고 있다. 
 #            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
