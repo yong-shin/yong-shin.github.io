@@ -176,8 +176,9 @@ projects:
     assignments:
       - title: Deepbrain AI | Video & Speech synthesis
         tagline: |
-            We produced AI Human through voice conversion using StarGAN and image synthesis using FSGAN.
-            We improved voice synthesis performance by utilizing various sampling rates, batch size, and iteration, and improved image synthesis performance by utilizing average similarity between videos.
+            We produced AI Human through voice conversion using StarGAN-VC and image synthesis using FSGAN.
+            Through the process of analyzing various voice conversion models(CycleGAN, StarGAN-VC, StarGAN-VC2), we improved the quality of voice conversion by analyzing loss terms, number of domain classes, batch size, and iteration.
+            In addition, the average similarity between the source video and the target video was used to facilitate video synthesis.
         details: |
             -  [<u>[PPT] Fake video through video and speech synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
             -  [<u>[PPT] Virtual Human</u>](https://docs.google.com/presentation/d/1N8KspTFLpTdppGixcv7XnbkUufEDHFdi8gE4fCgBam8/edit?usp=sharing)
