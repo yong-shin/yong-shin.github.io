@@ -245,7 +245,8 @@ publications:
         link: "https://www.koreascience.or.kr/article/JAKO201921853968627.page"
         authors: Seung-Lin Yang, Yongshin Kim, Doohee Chung
         conference: Journal of Technology Innovation, 2019
-        details: [PPT]
+        details: |
+            - [<u>[PPT] Emotion recognition with mobile phone & wearable sensor data</u>](https://yong-shin.github.io/assets/pdf/Emotion%20recognition%20with%20mobile%20phone%20&%20wearable%20sensor%20data.pdf)
         
       - title: <u>The Effect of Intellectual Property-Based Startups on Employment</u>
         link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
