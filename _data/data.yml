@@ -28,6 +28,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     google: Yongshin_Kim #Just type anything. You can edit in /_includes/contact.html
     CV: CV #Just type "CV". You can edit in /_includes/contact.html
+    Portfolio: Portfolio
 #     pdf: 
 
     languages:
