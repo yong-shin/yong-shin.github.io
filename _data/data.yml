@@ -60,11 +60,11 @@ sidebar:
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
-      I'm a M.S. student in the Graduate School of Knowledge Service Engineering at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). 
-      Currently, I am a member of [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
+      I'm an M.S. student in the Graduate School of Knowledge Service Engineering at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). 
+      Currently, I am a member of the [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
       [<u>Prof. Uichin Lee</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee).
       <p> I am interested in video and speech synthesis. These days, I am conducting music generation research using GAN(Generative Adversarial Networks).
-      Unlike this, I have previously studied causal analysis. Analyze time series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping). 
+      Unlike this, I have previously studied causal analysis. Analyze time-series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping). 
       I'm a consistent person. I do my best to carry out any task with responsibility.</p>
       <p>Other than the academic things, I enjoy exercising. I like sports using rackets such as badminton and tennis. 
       Another hobby is playing Go. The rules are simple, but Go requires very deep strategic thinking, which provides a rest for my busy life.</p>
@@ -93,7 +93,7 @@ experiences:
       time: 2020.08 - 2022.07(expected) 
       company: Interactive Computing Lab, KAIST
       details: |
-        I participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. Currently, I'm focusing on DTx project to develop
+        I participated in Digital Therapeutics(DTx), Smart mask, Contact tracing projects. Currently, I'm focusing on the DTx project to develop
         a platform that analyzes the effectiveness of digital treatments by studying and applying causal analysis techniques such as matching and CCM and also 
         developing algorithms and interactive visualization platforms that use human biometric data to predict stress levels.
 #        데이터 분석가로서 DTx, 스마트 마스크, 밀접 접촉 프로젝트를 진행했습니다. 현재는 DTx 프로젝트에 전념해서,
@@ -157,7 +157,7 @@ experiences:
       details: |
         I hosted an English class for about 100 elementary and middle school students at GVCS located in Sejong City, South Korea. 
         Participated as an equivalent English instructor with 30 other native speakers. 
-        Also, I worked as an English interpreter for various events as well as conducting classes.
+        Also, I worked as an English interpreter for various events as well as conducted classes.
 #        한국 세종시에 위치한 GVCS 글로벌 선진학교에서 100명 정도의 초*중학생을 대상으로 영어 수업을 진행함. 30명의 다른 원어민 강사들과 함께 동등한 영어 강사로 참여했음. 
 #        수업 뿐만 아니라, 각종 행사에 영어 통역사로 일하기도 함.
         
@@ -222,7 +222,7 @@ projects:
             - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1eYYdJaLrU1f3uUwvGD1NqW2Ooxt-x7VGwnH_661J9uQ/edit?usp=sharing)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
         tagline: |
-            We propose EFNet(Energy usage Forecasting Network) which forecast energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
+            We propose EFNet(Energy usage Forecasting Network) which forecasts energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
             such as weather, calendar, oil price, and COVID-19 confirmed cases. (Course Project)
         details: |
             - “[<u>EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors</u>](https://yong-shin.github.io/assets/pdf/EFNet%20Attention%20based%20CNN-LSTM%20Networks%20forEnergy%20Usage%20Forecasting%20with%20External%20Factors.pdf)”
