@@ -213,13 +213,21 @@ projects:
 #            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
 #        details: |
 #            - [<u>Experiment Report&#58; BLE based contact detection algorithm</u>](https://yong-shin.github.io/assets/pdf/Contact%20tracing_KETI.pdf)
+      - title: KAIST | [KSE801] Recommender System and Graph Machine Learning
+        tagline: |
+            We developed SRM(Stress Recommendation system with Mobile sensor data), a recommendation system to relieve human stress by utilizing mobile sensor data.
+            Unlike previous recommendation systems using correlation and cosine similarity, SRM can more accurately 
+            identify and recommend factors that cause stress because it operates based on causal analysis using a counterfactual approach. (Course Project)
+        details: | 
+            - “[<u>SRM&#58; Stress Recommendation system with Mobile sensor data</u>](https://yong-shin.github.io/assets/pdf/SRM__Stress_Recommendation_system_with_Mobile_sensor_data.pdf)”
+            - [<u>[PPT] SRM</u>](https://docs.google.com/presentation/d/1oINAeZnga0G_I6FwF9B5muMo3-5uEAykSspKXLTtWug/edit?usp=sharing)
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
         tagline: |
             We introduce a new interpretation of art experience by presenting CAN(Communicative Art Network), which allows viewers
             to achieve self-reliant thinking based on their art experience. CAN is a platform that consists of CAN AR Comment System and CAN
             SNS. (Course Project)
         details: | 
-            - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network</u>)](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)”
+            - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)</u>](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)”
             - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1eYYdJaLrU1f3uUwvGD1NqW2Ooxt-x7VGwnH_661J9uQ/edit?usp=sharing)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
         tagline: |
