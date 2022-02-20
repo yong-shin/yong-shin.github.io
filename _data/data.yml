@@ -279,5 +279,5 @@ skills:
       - name: SQL
         level: 50%
 
-      - name: Excel
-        level: 80%
+#       - name: MS Office
+#         level: 80%
