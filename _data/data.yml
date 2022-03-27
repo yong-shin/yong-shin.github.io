@@ -61,7 +61,7 @@ sidebar:
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
-      I'm an M.S. student in the Graduate School of Knowledge Service Engineering at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). 
+      I'm an M.S. student in the Graduate School of Data Science at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). 
       Currently, I am a member of the [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
       [<u>Prof. Uichin Lee</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee).
       <p> I am conducting research for predicting human emotions using audio and physiological signals. In addition, I am interested in video and speech synthesis. 
@@ -79,7 +79,7 @@ career-profile:
 
       
 education:
-    - degree: Knowledge Service Engineering (M.S.)
+    - degree: Data Science (M.S.)
       university: KAIST | Korea Advanced Institute of Science and Technology
       time: 2020 - present
       details: |
