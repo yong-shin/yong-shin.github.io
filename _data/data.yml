@@ -46,13 +46,13 @@ sidebar:
       - item: Video & Speech synthesis
         link: 
 
-      - item: Causal Inference
+      - item: Deep Learning
         link: 
 
-      - item: Human-Computer Interaction
+      - item: Emotion Recognition
         link:
       
-      - item: Statistical Data Analysis
+      - item: Human-Computer Interaction
         link:        
 
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
