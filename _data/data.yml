@@ -43,12 +43,15 @@ sidebar:
 #         level: 
 
     interests:
-      - item: Video & Speech synthesis
-        link: 
-
       - item: Deep Learning
         link: 
+      
+      - item: Natural Language Processing
+        link: 
 
+      - item: Video & Speech synthesis
+        link: 
+      
       - item: Emotion Recognition
         link:
       
