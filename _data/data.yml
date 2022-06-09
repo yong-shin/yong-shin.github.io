@@ -250,10 +250,10 @@ projects:
 publications:
     title: Publications
     papers:
-#       - title: Causal Analysis of Observational Mobile Sensor Data&#58; A Comparative Study
-#         link: "assets/pdf/Causal Analysis of Observational Mobile Sensor Data_A Comparative Study.pdf"
-#         authors: Yongshin Kim, Panyu Zhang, Gyuwon Jung, Heepyung Kim, Uichin Lee
-#         conference: Conference&#58; Korea Computer Congress, 2021 Spring
+      - title: <u>Beyond Pathogen Filtration: Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
+        link: "https://preprints.jmir.org/preprint/38614/accepted"
+        authors: Peter Lee, Heepyung Kim, Yongshin Kim, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong
+        conference: Journal of Medical Internet Research, 2022
       - title: <u>Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy</u>
         link: "https://www.koreascience.or.kr/article/JAKO201921853968627.page"
         authors: Seung-Lin Yang, Yongshin Kim, Doohee Chung
