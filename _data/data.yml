@@ -203,7 +203,7 @@ projects:
             Also, we develop emotional and stress monitoring algorithms through smart mask sensor data.
         details: |
             -  Peter Lee, Heepyung Kim, Yongshin Kim, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong, 
-            “[<u>Beyond Pathogen Filtration: Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>](https://preprints.jmir.org/preprint/38614/accepted)”, Journal of Medical Internet Research, 2022
+            “[<u>Beyond Pathogen Filtration: Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>](https://mhealth.jmir.org/2022/6/e38614)”, Journal of Medical Internet Research, 2022
       - title: KAIST | Contact Tracing
         tagline: |
             We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. 
@@ -251,7 +251,7 @@ publications:
     title: Publications
     papers:
       - title: <u>Beyond Pathogen Filtration&#58; Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
-        link: "https://preprints.jmir.org/preprint/38614/accepted"
+        link: "https://mhealth.jmir.org/2022/6/e38614"
         authors: Peter Lee, Heepyung Kim, Yongshin Kim, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong
         conference: Journal of Medical Internet Research, 2022
       - title: <u>Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy</u>
