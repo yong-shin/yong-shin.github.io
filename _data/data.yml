@@ -180,12 +180,9 @@ projects:
     title: Projects
     assignments:
       - title: KAIST | Emotion Recognition
-        tagline: |
-            Today, as we live in numerous interactions, many studies have tried to predict human emotions. Since our daily life consists of countless interactions, it is better to predict human emotions between interactions. 
-            However, most studies have focused only on the speaker’s data, not the counterpart’s data, to predict the speaker’s emotions because datasets which labeled human emotions in the naturalistic conversation are rare. 
+        tagline: | 
             In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks. 
             We used emotion-related data called K-EmoCon collected during the debate process to empirically evaluate our model. The results showed that the counterpart’s speech and the physiological signals had a positive impact on predicting the speaker’s emotions. 
-            Through this paper, we hope to be helpful in the study of predicting emotions in naturalistic conversation.
         details: |
             -  “[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)”, Master thesis, 2022 Spring
             -  [<u>[PPT]</u>](https://docs.google.com/presentation/d/1cDFI99C3vEIuxKN2ilplcjJVVHhv0JH1KhfW5QJ_XJA/edit?usp=sharing)
