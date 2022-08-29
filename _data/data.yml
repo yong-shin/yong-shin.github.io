@@ -64,7 +64,7 @@ sidebar:
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
-      I am currently working as an ML engineer in [<u>Okestro</u>](http://www.okestro.com/) studying voice-related AI technologies such as voice synthesis, voice recognition, and TTS.
+      I am currently working as an Machine Learning engineer in [<u>Okestro</u>](http://www.okestro.com/) studying voice-related AI technologies such as NLP, voice synthesis, and voice recognition.
       I graduated M.S. in the Graduate School of Data Science at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). I was a member of the [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
       [<u>Prof. Uichin Lee</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee).
       <p> I conducted master research for predicting human emotions using audio and physiological signals. In particular, I analyzed how the counterpart's data positively affects the speaker's emotion prediction during the naturalistic conversation.
@@ -106,11 +106,11 @@ education:
 
 
 experiences:
-    - role: ML engineer
+    - role: Machine Learning engineer
       time: 2022.09 - 
       company: Okestro
       details: |
-        Machine learning engineer studying voice-related AI technologies such as voice synthesis, voice recognition, and TTS.
+        Machine learning engineer studying voice-related AI technologies such as NLP, voice synthesis, and voice recognition.
 
     - role: Researcher
       time: 2020.08 - 2022.07
