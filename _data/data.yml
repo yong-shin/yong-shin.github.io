@@ -257,7 +257,7 @@ projects:
             SNS. (Course Project)
         details: | 
             - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)</u>](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)”
-            - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1eYYdJaLrU1f3uUwvGD1NqW2Ooxt-x7VGwnH_661J9uQ/edit?usp=sharing)
+            - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1uzZpo7nAzt5vnvZdNxKv_iFIK79M2sekBXhpupug8SY/edit?usp=sharing)
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
         tagline: |
             We propose EFNet(Energy usage Forecasting Network) which forecasts energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
