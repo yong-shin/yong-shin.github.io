@@ -106,6 +106,12 @@ education:
 
 
 experiences:
+    - role: AI Researcher
+      time: 2022.09 - 
+      company: Okestro
+      details: |
+        Machine learning researcher studying voice-related AI technologies such as voice synthesis, voice recognition, and TTS.
+
     - role: Researcher
       time: 2020.08 - 2022.07
       company: Interactive Computing Lab, KAIST
