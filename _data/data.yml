@@ -201,6 +201,13 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Okestro | Baseline of SWOT Classification
+        tagline: | 
+            We present baseline indicators by introducing BERT model, which is widely used in the natural language processing field, for the first time in SWOT analysis. 
+            Starting with this approach, the baseline indicators of this study are expected to be useful for business intelligence cloud platforms that can be easily accessed by all stakeholders through deep learning of SWOT analysis.
+        details: |
+            -  “[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)”, Master thesis, 2022 Spring
+            -  [<u>[PPT] Master Defense</u>](https://docs.google.com/presentation/d/1-bFZmO-7ice-PsHnfTw14Gr8iJ2nby05OwS7AN4mlUM/edit?usp=sharing)        
       - title: KAIST | Emotion Recognition
         tagline: | 
             In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks. 
