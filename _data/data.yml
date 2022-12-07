@@ -205,14 +205,16 @@ projects:
             As cloud-based AIaaS(AI as a Service) makes advanced AI technologies accessible, researchers in diverse disciplines have started to focus their research on developing intelligent applications. This study presented SWOT Sentence BERT as an AIaaS model that can intellectually automate company SWOT analysis. 
             The SWOT Sentence BERT is a sentence embedding model that is learned through SWOT text data processed in the form of natural language inference task. In order to automate SWOT analysis, we applied K-Means clustering algorithm to make clusters with sentence embeddings and classified sentence embeddings based on their predicted clusters.
         details: |
-            -  Sanghyeon Jung, <b>Yongshin Kim</b>, Kwangpil Jeong, Taehee Lee, Taewan Kwon, “[<u>Automation of Company SWOT Analysis Using Sentence BERT</u>](https://github.com/yong-shin/yong-shin.github.io/blob/925b0a1fef4265ef0bacfb457bf15c407e04c14c/assets/pdf/Sentence%20BERT%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%92%E1%85%AA%E1%86%AF%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%B8%20SWOT%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20%E1%84%8C%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%AE.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+            -  Sanghyeon Jung, <b>Yongshin Kim</b>, Kwangpil Jeong, Taehee Lee, Taewan Kwon, “[<u>Automation of Company SWOT Analysis Using Sentence BERT</u>](https://yong-shin.github.io/assets/pdf/Sentence BERT를 활용한 기업 SWOT 분석 자동화 연구.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+      
       - title: Okestro | Baseline of SWOT Classification
         tagline: | 
             We present baseline indicators by introducing BERT model, which is widely used in the natural language processing field, for the first time in SWOT analysis. 
             Starting with this approach, the baseline indicators of this study are expected to be useful for business intelligence cloud platforms that can be easily accessed by all stakeholders through deep learning of SWOT analysis.
         details: |
-            -  <b>Yongshin Kim</b>, Sanghyeon Jung, Chanjae Lee, Jinhee Kim, “[<u>Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform</u>](https://github.com/yong-shin/yong-shin.github.io/blob/018d5122c347c47acd6c66b2cbbfcf35b5c916de/assets/pdf/SWOT%20Classification%20using%20Bidirectional%20Encoder%20Representations%20from%20Transformers%20for%20Business%20Intelligence%20Platform.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
-            -  [<u>[PPT]</u>](https://yong-shin/yong-shin.github.io/assets/pdf/SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Platform.pdf)
+            -  <b>Yongshin Kim</b>, Sanghyeon Jung, Chanjae Lee, Jinhee Kim, “[<u>Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform</u>](https://yong-shin.github.io/assets/pdf/SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Platform.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+            -  [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/한국정보기술학회_Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform.pdf)
+      
       - title: KAIST | Emotion Recognition
         tagline: | 
             In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks. 
@@ -220,6 +222,7 @@ projects:
         details: |
             -  “[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)”, Master thesis, 2022 Spring
             -  [<u>[PPT] Master Defense</u>](https://docs.google.com/presentation/d/1-bFZmO-7ice-PsHnfTw14Gr8iJ2nby05OwS7AN4mlUM/edit?usp=sharing)
+      
       - title: Deepbrain AI | Video & Speech synthesis
         tagline: |
             We produced AI Human through voice conversion using StarGAN-VC and image synthesis using FSGAN.
@@ -229,6 +232,7 @@ projects:
             -  [<u>[PPT] Fake video through video and speech synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
             -  [<u>[PPT] Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
             -  [<u>Demo video</u>](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
+      
       - title: KAIST | Digital Therapeutics(DTx)
         tagline: |
             We develop fundamental technologies of data-driven digital therapeutic, receptivity optimization for mobile digital therapeutic development.
@@ -238,6 +242,7 @@ projects:
                Observational Mobile Sensor Data: A Comparative Study</u>](https://yong-shin.github.io/assets/pdf/Causal%20Analysis%20of%20Observational%20Mobile%20Sensor%20Data_A%20Comparative%20Study.pdf)”, Korea Computer Congress, 2021 Spring
                Conference, Jeju Island, Korea (2021)
             -  [<u>[PPT] KCC 2021</u>](https://docs.google.com/presentation/d/1CawJLCFN33a5qmrYbbliUqnkUTX7CPOY-Y0Y0k65Unk/edit?usp=sharing) 
+      
       - title: KAIST | Smart Mask
         tagline: |
             We review existing types of smart masks and study what sensor data can be collected through smart masks.
@@ -245,6 +250,7 @@ projects:
         details: |
             -  Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong, 
             “[<u>Beyond Pathogen Filtration: Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>](https://mhealth.jmir.org/2022/6/e38614)”, Journal of Medical Internet Research, 2022
+      
       - title: KAIST | Contact Tracing
         tagline: |
             We develop risk scoring algorithms that can be used for analysis to detect BLE contact between client devices. 
@@ -258,6 +264,7 @@ projects:
 #            place beacon이 client device들과 효과적으로 신호를 주고받을 수 있는 coverage를 확인하는 것 역시 본 연구의 목표로 한다.        
 #        details: |
 #            - [<u>Experiment Report&#58; BLE based contact detection algorithm</u>](https://yong-shin.github.io/assets/pdf/Contact%20tracing_KETI.pdf)
+      
       - title: KAIST | [KSE801] Recommender System and Graph Machine Learning
         tagline: |
             We developed SRM(Stress Recommendation system with Mobile sensor data), a recommendation system to relieve human stress by utilizing mobile sensor data.
@@ -266,6 +273,7 @@ projects:
         details: | 
             - “[<u>SRM&#58; Stress Recommendation system with Mobile sensor data</u>](https://yong-shin.github.io/assets/pdf/SRM__Stress_Recommendation_system_with_Mobile_sensor_data.pdf)”
             - [<u>[PPT] SRM</u>](https://docs.google.com/presentation/d/16mhR3xWrIrHedR9mj-W-DhlW7nwsLlINKSW0iXuhX7s/edit?usp=sharing)
+      
       - title: KAIST | [KSE531] Human-Computer Interaction&#58; Theory and Design
         tagline: |
             We introduce a new interpretation of art experience by presenting CAN(Communicative Art Network), which allows viewers
@@ -274,6 +282,7 @@ projects:
         details: | 
             - “[<u>Step-by-step Self-reliant Thinking with CAN(Communicative Art Network)</u>](https://yong-shin.github.io/assets/pdf/Step-by-step%20Self-reliant%20Thinking%20with%20CAN(Communicative%20ARt%20Network).pdf)”
             - [<u>[PPT] CAN</u>](https://docs.google.com/presentation/d/1uzZpo7nAzt5vnvZdNxKv_iFIK79M2sekBXhpupug8SY/edit?usp=sharing)
+      
       - title: KAIST | [KSE526] Analytical Methodologies for Big Data
         tagline: |
             We propose EFNet(Energy usage Forecasting Network) which forecasts energy usage by using attention based CNN-LSTM networks. EFNet is a sequential prediction model that reflects the characteristics of variables
@@ -281,6 +290,7 @@ projects:
         details: |
             - “[<u>EFNet&#58; Attention based CNN-LSTM Networks for Energy Usage Forecasting with External Factors</u>](https://yong-shin.github.io/assets/pdf/EFNet%20Attention%20based%20CNN-LSTM%20Networks%20forEnergy%20Usage%20Forecasting%20with%20External%20Factors.pdf)”
             - [<u>[PPT] EFNet</u>](https://docs.google.com/presentation/d/1KVK4liLqtHyMuzCnaQzp7M0qkRhk5Ys-nwQWSVv9Hrc/edit?usp=sharing)
+      
       - title: KAIST | [KSE801] Sensor Data Science
         tagline: |
             Wearable devices and smartphones can be used to track a person's body and physiological conditions to determine the relationship between physical activity and stress level.
