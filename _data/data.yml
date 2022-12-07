@@ -208,7 +208,7 @@ projects:
 
       - title: Okestro | Automation of Company SWOT Analysis Using Sentence BERT
         tagline: | 
-            As cloud-based AIaaS(AI as a Service) makes advanced AI technologies accessible, researchers in diverse disciplines have started to focus their research on developing intelligent applications. This study presented SWOT Sentence BERT as an AIaaS model that can intellectually automate company SWOT analysis. 
+            This study presented SWOT Sentence BERT as an AIaaS model that can intellectually automate company SWOT analysis. 
             The SWOT Sentence BERT is a sentence embedding model that is learned through SWOT text data processed in the form of natural language inference task. In order to automate SWOT analysis, we applied K-Means clustering algorithm to make clusters with sentence embeddings and classified sentence embeddings based on their predicted clusters.
         details: |
             -  Sanghyeon Jung, <b>Yongshin Kim</b>, Kwangpil Jeong, Taehee Lee, Taewan Kwon, “[<u>Automation of Company SWOT Analysis Using Sentence BERT</u>](https://yong-shin.github.io/assets/pdf/Sentence BERT를 활용한 기업 SWOT 분석 자동화 연구.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
