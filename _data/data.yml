@@ -65,12 +65,11 @@ career-profile:
     title: Welcome to Yongshin's page
     summary: |
       I am currently working as a machine learning researcher in [<u>Okestro</u>](http://www.okestro.com/) studying text, voice related AI technologies such as NLP, voice synthesis, and voice recognition.
-      I graduated M.S. in the Graduate School of Data Science at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). I was a member of the [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
-      [<u>Prof. Uichin Lee</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee).
-      
-      <p>Our team is interested in research on automation of corporate analysis in the area of business intelligence using natural language processing.
-      We are conducting research to provide a service that evaluates companies in real time in a cloud environment.</p>
-      <p>I completed my master research for predicting human emotions using audio and physiological signals. In particular, I analyzed how the counterpart's data positively affects the speaker's emotion prediction during the naturalistic conversation.
+      Our team is interested in research on automation of corporate analysis in the area of business intelligence using natural language processing.
+      We are conducting research to provide a service that evaluates companies in real time in a cloud environment.
+
+      <p>I graduated M.S. in the Graduate School of Data Science at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). I was a member of the [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
+      [<u>Prof. Uichin Lee</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee). I completed my master research for predicting human emotions using audio and physiological signals. In particular, I analyzed how the counterpart's data positively affects the speaker's emotion prediction during the naturalistic conversation.
       In addition, I am interested in video and speech synthesis. I am also managing music generation research using GAN(Generative Adversarial Networks).
       Unlike this, I previously studied causal analysis. Analyze time-series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping).</p>      
       
@@ -206,8 +205,8 @@ projects:
             We present baseline indicators by introducing BERT model, which is widely used in the natural language processing field, for the first time in SWOT analysis. 
             Starting with this approach, the baseline indicators of this study are expected to be useful for business intelligence cloud platforms that can be easily accessed by all stakeholders through deep learning of SWOT analysis.
         details: |
-            -  “[<u>Improving Multi-modal Emotion Recognition with Counterpart Data in Dyadic Conversations</u>](https://yong-shin.github.io/assets/pdf/Improving_Multi_modal_Emotion_Recognition_with_Counterpart_Data_in_Dyadic_Conversations.pdf)”, Master thesis, 2022 Spring
-            -  [<u>[PPT] Master Defense</u>](https://docs.google.com/presentation/d/1-bFZmO-7ice-PsHnfTw14Gr8iJ2nby05OwS7AN4mlUM/edit?usp=sharing)        
+            -  “[<u>Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform</u>](https://github.com/yong-shin/yong-shin.github.io/blob/018d5122c347c47acd6c66b2cbbfcf35b5c916de/assets/pdf/SWOT%20Classification%20using%20Bidirectional%20Encoder%20Representations%20from%20Transformers%20for%20Business%20Intelligence%20Platform.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+            -  [<u>[PPT]</u>](https://github.com/yong-shin/yong-shin.github.io/blob/018d5122c347c47acd6c66b2cbbfcf35b5c916de/assets/pdf/%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC_Baseline%20of%20SWOT%20Classification%20using%20Bidirectional%20Encoder%20Representations%20from%20Transformers%20for%20Business%20Intelligence%20Cloud%20Platform.pdf)
       - title: KAIST | Emotion Recognition
         tagline: | 
             In this study, we propose a method for predicting the emotions of the speaker in the naturalistic conversation using a speaker encoder and counterpart encoder composed of CNN-LSTM deep learning networks. 
