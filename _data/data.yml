@@ -64,12 +64,16 @@ sidebar:
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
-      I am currently working as a Machine Learning Researcher in [<u>Okestro</u>](http://www.okestro.com/) studying voice-related AI technologies such as NLP, voice synthesis, and voice recognition.
+      I am currently working as a machine learning researcher in [<u>Okestro</u>](http://www.okestro.com/) studying text, voice related AI technologies such as NLP, voice synthesis, and voice recognition.
       I graduated M.S. in the Graduate School of Data Science at [<u>KAIST</u>](https://www.kaist.ac.kr/en/). I was a member of the [<u>Interactive Computing Lab</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?Main) advised by 
       [<u>Prof. Uichin Lee</u>](http://ic.kaist.ac.kr/wiki/wiki.cgi?UichinLee).
-      <p> I conducted master research for predicting human emotions using audio and physiological signals. In particular, I analyzed how the counterpart's data positively affects the speaker's emotion prediction during the naturalistic conversation.
+      
+      <p>Our team is interested in research on automation of corporate analysis in the area of business intelligence using natural language processing.
+      We are conducting research to provide a service that evaluates companies in real time in a cloud environment.</p>
+      <p>I completed my master research for predicting human emotions using audio and physiological signals. In particular, I analyzed how the counterpart's data positively affects the speaker's emotion prediction during the naturalistic conversation.
       In addition, I am interested in video and speech synthesis. I am also managing music generation research using GAN(Generative Adversarial Networks).
       Unlike this, I previously studied causal analysis. Analyze time-series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping).</p>      
+      
       <p>Other than academic things, I enjoy exercising. I like sports using rackets such as badminton and tennis.
       Another hobby is playing Go. The rules are simple, but Go requires very deep strategic thinking, which provides a rest for my busy life.
       I'm a consistent person. I do my best to carry out any task with responsibility.</p>
