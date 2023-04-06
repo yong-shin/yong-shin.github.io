@@ -61,6 +61,18 @@ sidebar:
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
 #         link:   
 
+studies:
+    title: Personal Study
+    assignments:
+      - title: Okestro | Baseline of SWOT Classification
+        tagline: | 
+            We present baseline indicators by introducing BERT model, which is widely used in the natural language processing field, for the first time in SWOT analysis. 
+            Starting with this approach, the baseline indicators of this study are expected to be useful for business intelligence cloud platforms that can be easily accessed by all stakeholders through deep learning of SWOT analysis.
+        details: |
+            -  <b>Yongshin Kim</b>, Sanghyeon Jung, Chanjae Lee, Jinhee Kim, “[<u>Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform</u>](https://yong-shin.github.io/assets/pdf/SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Platform.pdf)”, Korean Institute of Information Technology, 2022 Fall Conference, Jeju Island, Korea (2022)
+            -  [<u>[PPT] SWOT</u>](https://yong-shin.github.io/assets/pdf/한국정보기술학회_Baseline of SWOT Classification using Bidirectional Encoder Representations from Transformers for Business Intelligence Cloud Platform.pdf)
+
+
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
