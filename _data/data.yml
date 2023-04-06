@@ -71,6 +71,7 @@ studies:
             - [<u>BERT</u>](https://docs.google.com/presentation/d/1wKzK0SCFVfXNlNyo-Tz0L0InDg8tI3tPvRTIWsO-KTo/edit?usp=sharing)
       - title: Others
         details: |
+            -  [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
             - [<u>Crawling</u>](https://docs.google.com/presentation/d/12ELzGn-v_N0kOwYmw7WYJNyTYvf5EPUZviT1-r2yIfo/edit?usp=sharing)
             
 
@@ -226,7 +227,6 @@ projects:
             In addition, the average similarity between the source video and the target video was used to facilitate video synthesis.
         details: |
             -  [<u>[PPT] Fake video through video and speech synthesis</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
-            -  [<u>[PPT] Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
             -  [<u>Demo video</u>](https://yong-shin.github.io/assets/Video/Demo%20video.mp4)
       
       - title: KAIST | Digital Therapeutics(DTx)
