@@ -68,13 +68,13 @@ studies:
         tagline: | 
             While studying deep learning as an NLP researcher, I made PPT with things I have been curious about or want to discuss about.
         details: |
-            - [<u>Multitask Learning</u>](https://star-ant-994.notion.site/Multitask-Learning-356c2ae7a44a4e2f8077ab9a83aa976f)
-            - [<u>NLP Preprocessing</u>](https://star-ant-994.notion.site/NLP-Preprocessing-dd25057ed75e49c0b1cb8e236610976a)
-            - [<u>Word Embedding</u>](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit?usp=sharing)
-            - [<u>Named Entity Recognition</u>](https://docs.google.com/presentation/d/1BG-9S1b4J02fX6OqNbUOVuGlTnTe15OlPJgob9jHp7M/edit#slide=id.ga6b09fafa8_0_5)
-            - [<u>Bidirectional Encoder Representations from Transformers</u>](https://docs.google.com/presentation/d/1wKzK0SCFVfXNlNyo-Tz0L0InDg8tI3tPvRTIWsO-KTo/edit?usp=sharing)
-            - [<u>Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</u>](https://docs.google.com/presentation/d/1N5_1lvBYSfYGQxe3N1t8-grg_vtLk4DdDMgsMekllz4/edit?usp=sharing)
-            - [<u>Extractive Text Summarization</u>](https://star-ant-994.notion.site/NLP-Extractive-Text-Summarization-9a1d8508d93e41fa98367adbba2142cc)
+            - [<u>[DL] Multitask Learning</u>](https://star-ant-994.notion.site/Multitask-Learning-356c2ae7a44a4e2f8077ab9a83aa976f)
+            - [<u>[NLP] Preprocessing</u>](https://star-ant-994.notion.site/NLP-Preprocessing-dd25057ed75e49c0b1cb8e236610976a)
+            - [<u>[NLP] Word Embedding</u>](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit?usp=sharing)
+            - [<u>[NLP] Named Entity Recognition</u>](https://docs.google.com/presentation/d/1BG-9S1b4J02fX6OqNbUOVuGlTnTe15OlPJgob9jHp7M/edit#slide=id.ga6b09fafa8_0_5)
+            - [<u>[NLP] Bidirectional Encoder Representations from Transformers</u>](https://docs.google.com/presentation/d/1wKzK0SCFVfXNlNyo-Tz0L0InDg8tI3tPvRTIWsO-KTo/edit?usp=sharing)
+            - [<u>[NLP] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</u>](https://docs.google.com/presentation/d/1N5_1lvBYSfYGQxe3N1t8-grg_vtLk4DdDMgsMekllz4/edit?usp=sharing)
+            - [<u>[NLP] Extractive Text Summarization</u>](https://star-ant-994.notion.site/NLP-Extractive-Text-Summarization-9a1d8508d93e41fa98367adbba2142cc)
       - title: <b>Research Ideas</b>
         tagline: | 
             The topics I want to study are as follows.
@@ -82,11 +82,15 @@ studies:
             -  [<u>BGMGAN: Background Music Generative Adversarial Networks</u>](https://docs.google.com/presentation/d/1MCopgtOX2FHZH3eTUx3DnD-jb3jsuuTNFG-CGRKfmDw/edit?usp=sharing)
       - title: <b>Fun</b>
         tagline: | 
-            Useful and interesting areas which I study and interest in when I have free time.
+            Areas that I study and find fascinating when I have free time.
         details: |
-            -  [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
+            - [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
             - [<u>Crawling</u>](https://docs.google.com/presentation/d/12ELzGn-v_N0kOwYmw7WYJNyTYvf5EPUZviT1-r2yIfo/edit?usp=sharing)
-            
+      - title: <b>Wiki</b>
+        tagline: | 
+            As a researcher, I gathered useful information for studying and collaborating with people.
+        details: |
+            -  [<u>[Bitbucket] Tutorial</u>](https://star-ant-994.notion.site/Bitbucket-Tutorial-422d2b869125407388390067f40f0209) 
 
 career-profile:
     title: Welcome to Yongshin's page
