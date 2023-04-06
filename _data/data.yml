@@ -293,7 +293,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: <u>Beyond Pathogen Filtration&#58; Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
+      - title:<u>Beyond Pathogen Filtration&#58; Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
         link: "https://mhealth.jmir.org/2022/6/e38614"
         authors: Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong
         conference: Journal of Medical Internet Research, 2022
