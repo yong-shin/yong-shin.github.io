@@ -1,0 +1,36 @@
+{% assign studies = site.data.data.studies %}
+{% if studies %}
+<section class="section study-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ studies.title }}
+  </h2>
+
+  {% for study in studies.assignments %}
+    <div class="item">
+
+      <span class="study-title">
+        {% if study.link %}
+        <a href="{{ study.link }}" target="_blank">{{ study.title }}</a>
+        {% else %}
+        {{ study.title }}
+        {% endif %}
+      </span>
+
+      {% if study.tagline %}
+      - <span class="study-tagline">{{ study.tagline }}</span>
+      {% endif %}
+      
+      {% if study.details %}
+      <span class="study-details">{{ study.details | markdownify }}</span>
+      {% endif %}       
+      
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
