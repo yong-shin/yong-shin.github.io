@@ -217,7 +217,7 @@ projects:
     assignments:
       - title: Okestro | FAQ Classification
         tagline: | 
-            This 
+            This paper contributes to enhancing the experience of users and administrators in the FAQ system.
         details: |
             -  Taewan Kwon, Chanjae Lee, Sanghyeon Jung, <b>Yongshin Kim</b>, Taehee Lee, “[<u>Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers</u>](https://yong-shin.github.io/assets/pdf/Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
             
