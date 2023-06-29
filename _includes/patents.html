@@ -24,7 +24,9 @@
       <li>{{ patent.title }}</li>
     {% endif %}
     <div class="patent-authors">{{ patent.authors }}</div>
-    <div class="patent-conference">{{ patent.conference | markdownify }}</div>
+    {% if patent.details %}
+    <span class="patent-details">{{ patent.details | markdownify }}</span>
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 
