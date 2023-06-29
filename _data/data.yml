@@ -61,6 +61,20 @@ sidebar:
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
 #         link:   
 
+patents:
+    title: patents
+    assignments:
+      - title: <b>Deep Learning</b>
+        tagline: | 
+            While studying deep learning as an NLP researcher, I made PPT with things I have been curious about or want to discuss about.
+        details: |
+            - [<u>[DL] Deep Learning Basic</u>](https://star-ant-994.notion.site/DL-Deep-Learning-Basic-202e77cc5b354a2eb2413d2c60adc30f)            
+      - title: <b>Fun</b>
+        tagline: | 
+            Areas that I study and find fascinating when I have free time.
+        details: |
+            - [<u>Virtual Human</u>](https://docs.google.com/presentation/d/1vRID6j7VhZPzXQVyaUIC3xbjxTs005Gf8Q2HoETK8to/edit?usp=sharing)
+
 studies:
     title: Personal Studies
     assignments:
