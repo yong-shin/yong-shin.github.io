@@ -217,7 +217,6 @@ projects:
     assignments:
       - title: Okestro | Log-Level Anomaly Detection
         tagline: | 
-            Log-based anomaly detection is a technology that detects abnormality in log messages that are simultaneously caused by events that occur while the system is operating. 
             We presents FineLog, a log message-wise anomaly detection framework that enables anomaly detection for each log message in the context of a given sequence. 
             This study shows that FineLog not only records high performance in the existing sequence unit anomaly detection, but also records high performance in log unit anomaly detection.
         details: |
