@@ -1,31 +1,35 @@
 {% assign patents = site.data.data.patents %}
 {% if patents %}
-<section class="section patents-section">
+<section class="section patent-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-pen fa-stack-1x fa-inverse"></i>
     </span>
     {{ patents.title }}
   </h2>
 
-  {% if patents.intro %}
-  <div class="intro">
-    {{ patents.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
+  {% for patent in patents.assignments %}
+    <div class="item">
 
-  {% for patent in patents.papers %}
-  <div class="item">
-    {% if patent.link %}
-      <li><a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a></li>
-    {% else %}
-      <li>{{ patent.title }}</li>
-    {% endif %}
-    <div class="patent-authors">{{ patent.authors }}</div>
-    <div class="patent-conference">{{ patent.conference | markdownify }}</div>
-  </div><!--//item-->
+      <span class="patent-title">
+        {% if patent.link %}
+        <a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a>
+        {% else %}
+        {{ patent.title }}
+        {% endif %}
+      </span>
+
+      {% if patent.tagline %}
+      - <span class="patent-tagline">{{ patent.tagline }}</span>
+      {% endif %}
+      
+      {% if patent.details %}
+      <span class="patent-details">{{ patent.details | markdownify }}</span>
+      {% endif %}       
+      
+    </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
