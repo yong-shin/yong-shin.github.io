@@ -227,7 +227,7 @@ projects:
             
       - title: Okestro | Log-Level Anomaly Detection
         tagline: | 
-            We presents FineLog, a log message-wise anomaly detection framework that enables anomaly detection for each log message in the context of a given sequence. 
+            We present FineLog, a log message-wise anomaly detection framework that enables anomaly detection for each log message in the context of a given sequence. 
             This study shows that FineLog not only records high performance in the existing sequence unit anomaly detection, but also records high performance in log unit anomaly detection.
         details: |
             -  Taewan Kwon, Chanjae Lee, Sanghyeon Jung, <b>Yongshin Kim</b>, Taehee Lee, “[<u>Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers</u>](https://yong-shin.github.io/assets/pdf/Framework for Log-Level Anomaly Detection in a Log Sequence using Bidirectional Encoder Representations from Transformers.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
