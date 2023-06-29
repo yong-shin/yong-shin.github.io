@@ -345,6 +345,21 @@ publications:
         authors: Haejun Jung, <b>Yongshin Kim</b>, Doohee Chung
         conference: Korea Technology Innovation Society, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/한국기술혁신학회_김용신.pdf)
 
+patents:
+    title: PATENTS
+    papers:
+      - title: A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME
+        authors: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J
+        conference: KR - Application No.10-2022-0179834
+      - title: <u>Nonlinear Relationship Between Technological Entrepreneurship and National Competitiveness&#58; The Moderation Effect of Innovation-driven Economy</u>
+        link: "https://www.koreascience.or.kr/article/JAKO201921853968627.page"
+        authors: Seung-Lin Yang, <b>Yongshin Kim</b>, Doohee Chung
+        conference: Journal of Technology Innovation, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/기술경영경제학회_김용신.pdf)
+      - title: <u>The Effect of Intellectual Property-Based Startups on Employment</u>
+        link: "assets/pdf/The Effect of Intellectual Property-Based Startups on Employment.pdf"
+        authors: Haejun Jung, <b>Yongshin Kim</b>, Doohee Chung
+        conference: Korea Technology Innovation Society, 2019 [<u>[PPT]</u>](https://yong-shin.github.io/assets/pdf/한국기술혁신학회_김용신.pdf)
+
 skills:
     title: Skills &amp; Proficiency
 
