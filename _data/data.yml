@@ -218,7 +218,7 @@ projects:
       - title: Okestro | FAQ Classification
         tagline: | 
             This paper contributes to enhancing the experience of users and administrators in the FAQ system. 
-            We presents a model that uses BERT and contrastive learning to automatically classify users’ inquiries. 
+            We presents a model that uses BERT and contrastive learning to automatically classify users inquiries. 
             The model eliminates the need for users to have domain knowledge or for administrators to classify multiple inquiries, which can significantly improve the efficiency of the inquiry management system, reduce the workload of users and administrators, and enhance the overall user experience.
         details: |
             -  <b>Yongshin Kim</b>, Taehee Lee, Sanghyeon Jung, Chanjae Lee, Taewan Kwon, “[<u>Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification</u>](https://yong-shin.github.io/assets/pdf/Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
