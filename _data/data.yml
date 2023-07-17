@@ -43,9 +43,6 @@ sidebar:
 #         level: 
 
     interests:
-      - item: Deep Learning
-        link: 
-      
       - item: Natural Language Processing
         link: 
 
@@ -54,7 +51,10 @@ sidebar:
       
       - item: Emotion Recognition
         link:
-      
+
+      - item: Deep Learning
+        link: 
+            
       - item: Human-Computer Interaction
         link:        
 
