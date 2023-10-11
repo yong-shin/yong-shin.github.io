@@ -46,14 +46,11 @@ sidebar:
       - item: Natural Language Processing
         link: 
 
-      - item: Video & Speech synthesis
+      - item: Retrieval-Augmented Generation
         link: 
       
       - item: Emotion Recognition
         link:
-
-      - item: Deep Learning
-        link: 
             
       - item: Human-Computer Interaction
         link:        
