@@ -227,6 +227,16 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Okestro | Deploying chatbot service specific to cloud domain
+        tagline: | 
+            We are developing Chatbot specific to cloud domains using Retrieval-Augmented Generation (RAG) systems. 
+            Through this, we can primarily handle product-related inquiries from in-house customers. 
+            In particular, we are working on how to generate answers that can give trust to users in the RAG system.
+
+        details: |
+            -  <b>Yongshin Kim</b>, Taehee Lee, Sanghyeon Jung, Chanjae Lee, Taewan Kwon, “[<u>Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification</u>](https://yong-shin.github.io/assets/pdf/Improving Cloud FAQ Experience through Contrastive Learning-based Inquiry Classification.pdf)”, Korea Computer Congress, Jeju Island, Korea (2023)
+            -  [<u>[PPT] KCC 2023</u>](https://docs.google.com/presentation/d/1tdM9cC6tt8-ZlDAFN7N0VpCxnWGhA1zUBmVsfM4MBjA/edit?usp=sharing)
+            
       - title: Okestro | FAQ Classification
         tagline: | 
             This paper contributes to enhancing the experience of users and administrators in the FAQ system.
