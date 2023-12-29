@@ -382,16 +382,16 @@ skills:
       - name: Python
         level: 95%
 
+      - name: SQL
+        level: 70%
+
       - name: R
         level: 70%
 
-      - name: STATA
+      - name: SPSS & AMOS
         level: 50%
 
-      - name: SPSS & AMOS
-        level: 70%
-
-      - name: SQL
+      - name: STATA
         level: 50%
 
 #       - name: MS Office
