@@ -235,7 +235,7 @@ projects:
             we were able to have a Korean embedding model with significantly better performance than the text-ada model provided by OpenAI.
         details: |
             -  [<u>[PPT] Korean Embedding Model in RAG system</u>](https://docs.google.com/presentation/d/1Ef7ARwoXb7u1CL1n2IF7wi-hWxfGUA4cRb_-F_edq4c/edit?usp=sharing)
-            -  [<u>[PPT] Embedding Model Tutorial</u>](https://docs.google.com/presentation/d/1LL8OU4HaWoQDwr2Mx6qYCDtkZVvWVs2ba_XWYq9qUpI/edit?usp=sharing)
+            -  [<u>[PPT] Word Embedding</u>](https://docs.google.com/presentation/d/1LL8OU4HaWoQDwr2Mx6qYCDtkZVvWVs2ba_XWYq9qUpI/edit?usp=sharing)
       
       - title: Okestro | Deploying chatbot service specific to cloud domain
         tagline: | 
