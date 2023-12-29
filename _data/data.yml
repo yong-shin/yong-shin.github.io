@@ -232,7 +232,7 @@ projects:
             In order to provide chatbot services to customers in a closed network environment, it is essential to provide an embedding model. 
             We are working on a project to secure a high-performance Korean language embedding model. As a project leader, I researched several baseline Korean embedding models on the huggingface.
             We selected a baseline model and automated the construction of a dataset for embedding model fine tuning. By fine-tuning the embedding model using these datasets, 
-            we were able to have a Korean embedding model with significantly better performance than the text-ada model provided by OpenAI.
+            we were able to have a Korean embedding model with significantly better performance than the text-ada-embedding-002 provided by OpenAI.
         details: |
             -  [<u>[PPT] Korean Embedding Model in RAG system</u>](https://docs.google.com/presentation/d/1Ef7ARwoXb7u1CL1n2IF7wi-hWxfGUA4cRb_-F_edq4c/edit?usp=sharing)
             -  [<u>[PPT] Word Embedding</u>](https://docs.google.com/presentation/d/1LL8OU4HaWoQDwr2Mx6qYCDtkZVvWVs2ba_XWYq9qUpI/edit?usp=sharing)
