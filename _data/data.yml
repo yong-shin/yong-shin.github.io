@@ -227,7 +227,7 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Okestro | Korean Embeddeding Model Pipeline in Closed Network RAG System
+      - title: Okestro | Korean Embedding Model Pipeline in Closed Network RAG System
         tagline: | 
             In order to provide chatbot services to customers in a closed network environment, it is essential to provide an embedding model. 
             We are working on a project to secure a high-performance Korean language embedding model. As a project leader, I researched several baseline Korean embedding models on the huggingface.
