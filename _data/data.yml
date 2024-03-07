@@ -43,16 +43,16 @@ sidebar:
 #         level: 
 
     interests:
-      - item: Natural Language Processing
-        link: 
-
       - item: Retrieval-Augmented Generation
         link: 
+
+      - item: Embedding
+        link: 
       
-      - item: Emotion Recognition
+      - item: Large Language Model
         link:
             
-      - item: Human-Computer Interaction
+      - item: Natural Language Processing
         link:        
 
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
