@@ -241,7 +241,7 @@ projects:
         tagline: | 
             We are developing Chatbot specific to cloud domains using Retrieval-Augmented Generation (RAG) system. 
             Through this, we can primarily handle product-related inquiries from in-house customers. 
-            In particular, we are working on how to generate answers that can give trust to users in the RAG system.
+            we are working on how to generate answers that can give trust to users in the RAG system.
         details: |
             -  [<u>[PPT] RAG system</u>](https://docs.google.com/presentation/d/1c02biCBMPB4QXo7wSaMMjEtNWkeiGSkxtOaCy294cMo/edit?usp=sharing)
             
