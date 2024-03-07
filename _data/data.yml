@@ -46,7 +46,7 @@ sidebar:
       - item: Retrieval-Augmented Generation
         link: 
 
-      - item: Embedding
+      - item: Embedding Model
         link: 
       
       - item: Large Language Model
