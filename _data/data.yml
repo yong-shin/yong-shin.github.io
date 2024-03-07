@@ -74,7 +74,7 @@ studies:
     assignments:
       - title: <b>Deep Learning</b>
         tagline: | 
-            While studying deep learning as an NLP researcher, I made PPT with things I have been curious about or want to discuss about.
+            While studying deep learning as an NLP engineer, I made PPT with things I have been curious about or want to discuss about.
         details: |
             - [<u>[DL] Deep Learning Basic</u>](https://star-ant-994.notion.site/DL-Deep-Learning-Basic-202e77cc5b354a2eb2413d2c60adc30f)
             - [<u>[DL] Multitask Learning</u>](https://star-ant-994.notion.site/Multitask-Learning-356c2ae7a44a4e2f8077ab9a83aa976f)
@@ -97,7 +97,7 @@ studies:
             - [<u>BGMGAN: Background Music Generative Adversarial Networks</u>](https://docs.google.com/presentation/d/1MCopgtOX2FHZH3eTUx3DnD-jb3jsuuTNFG-CGRKfmDw/edit?usp=sharing)
       - title: <b>Wiki</b>
         tagline: | 
-            As a researcher, I gathered useful information for studying and collaborating with people.
+            As an engineer, I gathered useful information for studying and collaborating with people.
         details: |
             - [<u>[Bitbucket] Tutorial</u>](https://star-ant-994.notion.site/Bitbucket-Tutorial-422d2b869125407388390067f40f0209) 
             - [<u>[Backend] Django vs. Flask vs. FastAPI</u>](https://star-ant-994.notion.site/Backend-Django-vs-Flask-vs-FastAPI-25c0fa17507d4948b020fc258de086da)
@@ -108,7 +108,7 @@ career-profile:
       I graduated M.S. in the Graduate School of Data Science at <a href="https://www.kaist.ac.kr/en/"><u>KAIST</u></a>. I was a member of the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> advised by 
       <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. I completed my master's research for predicting human emotion using audio and physiological signals. In particular, I analyzed how the counterpart's 
       data positively affects the speaker's emotion prediction during the naturalistic conversation.
-      <p>I am currently working as a machine learning researcher in <a href="http://www.okestro.com/"><u>Okestro</u></a>  studying Natural Language Processing(NLP).
+      <p>I am currently working as a machine learning engineer in <a href="http://www.okestro.com/"><u>Okestro</u></a>  studying Natural Language Processing(NLP).
       Our team was interested in research on automation of corporate analysis in the area of business intelligence using NLP.
       We conducted research to provide a service that evaluates companies in real time in a cloud environment.
       These days, our team is interested in generative models. We are using Retrieval-Augmented Generation to create a chatbot that can answer queries in its domain. 
@@ -134,11 +134,11 @@ education:
 
 
 experiences:
-    - role: Machine Learning Researcher
+    - role: Machine Learning Engineer
       time: 2022.09 - Present
       company: Okestro
       details: |
-        I am currently working as a machine learning researcher studying NLP.
+        I am currently working as a machine learning engineer studying NLP.
         Our team's attention is directed towards generative models, particularly, the utilization of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries.
         We are leveraging the langchain library to simplify this process. Furthermore, we are engaged in a project aimed at fine-tuning an open-source GPT model like llama to acquire expertise in our specific domain.
 
