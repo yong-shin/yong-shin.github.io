@@ -57,12 +57,17 @@ sidebar:
 
 #       - item: <p align=right><br><br>Updated 31 Oct, 2021</p>
 #         link:   
-# “”
+
+
 patents:
     title: Patents
     papers:
-      - title: hi there
-        details: hi
+      - title: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J, "<u>A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME</u>"
+        details: KR - Application No.10-2022-0179834
+      - title: Jeong. K, <b>Kim. Y</b>, Ahn. S, Lee. T, Kim. Y, Kim. M, "<u>A CLOUD SERVER OPERATING SYSTEM IMPLEMENTING INDIVIDUAL VIRTUALIZATION OF RESOURCES AND A METHOD FOR OPERATING CLOUD SERVER</u>"        
+        details: KR - Application No.10-2022-0190619
+      - title: <b>Kim. Y</b>, Lee. T, Jung. S, "<u>AN INQUIRY MANAGEMENT SYSTEM USING CLASSIFICATION METHOD BASED IN CLOUD SERVICE AND A PLATFORM FOR INQUIRY-RESPONSE INTEGRATED MANAGEMENT</u>"
+        details: KR - Application No.10-2023-0077742
             
 studies:
     title: Personal Studies
