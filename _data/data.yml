@@ -65,14 +65,12 @@ patents:
       - title: <b>Kim. Y</b>, Lee. T, Jung. S, "AN INQUIRY MANAGEMENT SYSTEM USING CLASSIFICATION METHOD BASED IN CLOUD SERVICE AND A PLATFORM FOR INQUIRY-RESPONSE INTEGRATED MANAGEMENT"
         details: |
             - [<u>KR - Application No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/AN_INQUIRY_MANAGEMENT_SYSTEM_USING_CLASSIFICATION_METHOD_BASED_IN_CLOUD_SERVICE_AND_A_PLATFORM_FOR_INQUIRY_RESPONSE_INTEGRATED_MANAGEMENT.pdf)
-      - title: Jeong. K, <b>Kim. Y</b>, Ahn. S, Lee. T, Kim. Y, Kim. M, "<u>A CLOUD SERVER OPERATING SYSTEM IMPLEMENTING INDIVIDUAL VIRTUALIZATION OF RESOURCES AND A METHOD FOR OPERATING CLOUD SERVER</u>"        
-        details: KR - Application No.10-2022-0190619
-      - title: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J, "<u>A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME</u>"
-        details: KR - Application No.10-2022-0179834
-      - title: <u>Beyond Pathogen Filtration&#58; Possibility of Smart Mask as Wearable Device for Personal and Group Health and Safety Management</u>
-        link: "https://mhealth.jmir.org/2022/6/e38614"
-        authors: Peter Lee, Heepyung Kim, <b>Yongshin Kim</b>, Woohyeok Choi, M. Sami Zitouni, Ahsan Khandoker, Herbert F. Jelinek, Leontios Hadjileontiadis, Uichin Lee, Yong Jeong
-        conference: Journal of Medical Internet Research, 2022
+      - title: Jeong. K, <b>Kim. Y</b>, Ahn. S, Lee. T, Kim. Y, Kim. M, "A CLOUD SERVER OPERATING SYSTEM IMPLEMENTING INDIVIDUAL VIRTUALIZATION OF RESOURCES AND A METHOD FOR OPERATING CLOUD SERVER"
+        details: |
+            - [<u>KR - Application No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/A_CLOUD_SERVER_OPERATING_SYSTEM_IMPLEMENTING_INDIVIDUAL_VIRTUALIZATION_OF_RESOURCES_AND_A_METHOD_FOR_OPERATING_CLOUD_SERVER.pdf)
+      - title: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J, "A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME"
+        details: |
+            - [<u>KR - Application No.10-2022-0179834</u>](https://yong-shin.github.io/assets/pdf/A_CREATION_MODULE_FOR_AUTOMATIC_SWOT_ANALYSIS_TOOL_USING_ARTIFICIAL_INTELLIGENCE_AND_A_SWOT_ANALYSIS_SYSTEM_COMPRISING_THE_SAME.pdf)
         
 studies:
     title: Personal Studies
