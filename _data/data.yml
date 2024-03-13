@@ -61,12 +61,8 @@ sidebar:
 patents:
     title: Patents
     papers:
-      - title: <b>Kim. Y</b>, Lee. T, Jung. S, “AN INQUIRY MANAGEMENT SYSTEM USING CLASSIFICATION METHOD BASED IN CLOUD SERVICE AND A PLATFORM FOR INQUIRY-RESPONSE INTEGRATED MANAGEMENT”
+      - title: <b>Kim. Y</b>, Lee. T, Jung. S
         details: [<u>KRApplication No.10-2023-0077742</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
-      - title: Jung. S, Kwon. T, Lee. T, <b>Kim. Y</b>, Lee. C, Kim. J, “A CREATION MODULE FOR AUTOMATIC SWOT ANALYSIS TOOL USING ARTIFICIAL INTELLIGENCE AND A SWOT ANALYSIS SYSTEM COMPRISING THE SAME”
-        details: [<u>KRApplication No.10-2022-0179834</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
-      - title: Jeong. K, <b>Kim. Y</b>, Ahn. S, Lee. T, Kim. Y, Kim. M, “A CLOUD SERVER OPERATING SYSTEM IMPLEMENTING INDIVIDUAL VIRTUALIZATION OF RESOURCES AND A METHOD FOR OPERATING CLOUD SERVER”
-        details: [<u>KRApplication No.10-2022-0190619</u>](https://yong-shin.github.io/assets/pdf/Fake%20video.pdf)
             
 studies:
     title: Personal Studies
