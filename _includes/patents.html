@@ -21,7 +21,7 @@
     {% if patent.link %}
       <li><a href="{{ patent.link }}" target="_blank">{{ patent.title }}</a></li>
     {% else %}
-      <li>{{ patent.title }}</li>
+      {{ patent.title }}
     {% endif %}
     <div class="patent-authors">{{ patent.authors }}</div>
     {% if patent.details %}
