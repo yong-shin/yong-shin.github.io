@@ -232,6 +232,14 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: Okestro | Create an LLM model specific to RAG system
+        tagline: | 
+            Large language model(LLM) for Korean specialized in high-performance RAG systems is very rare. We created Korean LLM specialized for RAG using Orion-14B as a foundation model. 
+            A total of 800,000 data were selected from the AI hub. This data was refined and GPT-4 was used to create 8,000 high-quality RAG training data.
+            We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
+        details: |
+            -  [<u>[PPT] Creating Dataset for LoRA tuning in RAG system</u>](https://docs.google.com/presentation/d/1Pz_56VaUDr4HI_1DJjszbFUcYd4UZxuy6wwStQRkDww/edit?usp=sharing)
+            
       - title: Okestro | Korean Embedding Model Pipeline in Closed Network RAG System
         tagline: | 
             In order to provide chatbot services to customers in a closed network environment, it is essential to provide an embedding model. 
