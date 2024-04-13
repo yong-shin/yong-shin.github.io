@@ -232,9 +232,9 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Okestro | Create an LLM model specific to RAG system
+      - title: Okestro | Create an LLM model for Retrieval-Augmented Generation system
         tagline: | 
-            Large language model(LLM) for Korean specialized in high-performance RAG systems is very rare. We created Korean LLM specialized for RAG using Orion-14B as a foundation model. 
+            Large language model(LLM) for Korean specialized in high-performance retrieval-augmented generation(RAG) system is very rare. We created Korean LLM specialized for RAG using Orion-14B as a foundation model. 
             A total of 800,000 data were selected from the AI hub. This data was refined and GPT-4 was used to create 8,000 high-quality RAG training data.
             We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
         details: |
