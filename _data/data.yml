@@ -239,6 +239,7 @@ projects:
             We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
         details: |
             -  [<u>[PPT] Creating Dataset for LoRA tuning in RAG system</u>](https://docs.google.com/presentation/d/1Pz_56VaUDr4HI_1DJjszbFUcYd4UZxuy6wwStQRkDww/edit?usp=sharing)
+            -  [<u>[PPT] Building a RAG system specialized for Korean in closed network</u>](https://docs.google.com/presentation/d/1NC_J-S4QfMCD44bMyfkFy3xkwpCfiNh0hgZ7F0xUVYM/edit?usp=sharing)
             
       - title: Okestro | Korean Embedding Model Pipeline in Closed Network RAG System
         tagline: | 
