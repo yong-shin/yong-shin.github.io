@@ -239,13 +239,14 @@ projects:
             We used data distributed parallel(DDP) to train multiple A100 GPUs in parallel and utilized the low-rank adaptation of large language models(LoRA).
         details: |
             -  [<u>[PPT] Creating Dataset for LoRA tuning in RAG system</u>](https://docs.google.com/presentation/d/1Pz_56VaUDr4HI_1DJjszbFUcYd4UZxuy6wwStQRkDww/edit?usp=sharing)
-            -  [<u>[PPT] Building a RAG system specialized for Korean in closed network</u>](https://docs.google.com/presentation/d/1NC_J-S4QfMCD44bMyfkFy3xkwpCfiNh0hgZ7F0xUVYM/edit?usp=sharing)
+            -  [<u>[PPT] Building a RAG system specialized for Korean in closed network</u>](https://docs.google.com/presentation/d/16MwlVt9q-y66UzTJpu8qd78cAQTPR9NWt-0e4M75fXc/edit?usp=sharing)
+            -  [<u>[PPT] Example of qualitative evaluation after fine-tuning LLM for RAG</u>](https://docs.google.com/spreadsheets/d/1E4dPuhkbvhK9SZCjUbJQ8PIiJciWo7mnoFVwB1fdoyE/edit?usp=sharing)
             
       - title: Okestro | Korean Embedding Model Pipeline in Closed Network RAG System
         tagline: | 
             In order to provide chatbot services to customers in a closed network environment, it is essential to provide an embedding model. 
             We are working on a project to secure a high-performance Korean language embedding model. As a project leader, I researched several baseline Korean embedding models on the huggingface.
-            We selected a baseline model and automated the construction of a dataset for embedding model fine tuning. By fine-tuning the embedding model using these datasets, 
+            We selected a baseline model and automated the construction of a dataset for embedding model fine-tuning. By fine-tuning the embedding model using these datasets, 
             we were able to have a Korean embedding model with significantly better performance than the text-ada-embedding-002 provided by OpenAI.
         details: |
             -  [<u>[PPT] Korean Embedding Model in RAG system</u>](https://docs.google.com/presentation/d/1Ef7ARwoXb7u1CL1n2IF7wi-hWxfGUA4cRb_-F_edq4c/edit?usp=sharing)
