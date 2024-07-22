@@ -79,17 +79,17 @@ studies:
         tagline: | 
             While studying deep learning as an NLP engineer, I made PPT with things I have been curious about or want to discuss about.
         details: |
-            - [<u>[DL] Deep Learning Basic</u>](https://star-ant-994.notion.site/DL-Deep-Learning-Basic-202e77cc5b354a2eb2413d2c60adc30f)
+            - [<u>[DL] Deep Learning Basic</u>](https://invented-field-fa2.notion.site/DL-Deep-Learning-Basic-cb46cfb1f41a459681a28cf5e1c057a5?pvs=4)
             - [<u>[DL] Multitask Learning</u>](https://star-ant-994.notion.site/Multitask-Learning-356c2ae7a44a4e2f8077ab9a83aa976f)
-            - [<u>[DL] Why does cross entropy use log function?</u>](https://star-ant-994.notion.site/DL-Why-does-cross-entropy-use-log-function-8ed0117d0a964cd5a70d465cac57e48a)
-            - [<u>[DL] Model inference using dropout</u>](https://star-ant-994.notion.site/DL-Model-inference-using-dropout-e12829d31f8c4d11acbe984c67355ed7)
+            - [<u>[DL] Why does cross entropy use log function?</u>](https://invented-field-fa2.notion.site/DL-Why-does-cross-entropy-use-log-function-4e7863271bd5421381c78e38d6b43a53?pvs=4)
+            - [<u>[DL] Model inference using dropout</u>](https://invented-field-fa2.notion.site/DL-Model-inference-using-dropout-a54512932d2b41d9a1bc3e280d2ec605?pvs=4)
             - [<u>[NLP] Preprocessing</u>](https://star-ant-994.notion.site/NLP-Preprocessing-dd25057ed75e49c0b1cb8e236610976a)
             - [<u>[NLP] Word Embedding</u>](https://docs.google.com/presentation/d/11ARh5e7R_gZi6zLHoaLG5qbpLrFktzfTGaYOdM_DF-Y/edit?usp=sharing)
             - [<u>[NLP] Named Entity Recognition</u>](https://docs.google.com/presentation/d/1SlQmaTIwaFaTCQzOt7pxoAp1ms3FzGT-ob08T2Rxh_I/edit?usp=sharing)
             - [<u>[NLP] Bidirectional Encoder Representations from Transformers</u>](https://docs.google.com/presentation/d/1xk6qezYc-LAmVgJIvV8FI6D0dZI1l4xv6I-iBvyS-YE/edit?usp=sharing)
             - [<u>[NLP] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks</u>](https://docs.google.com/presentation/d/1QXYi8ZRRrxtdu3ffWnx4rK5jrqd45Rws1m7lPetd35A/edit?usp=sharing)
-            - [<u>[NLP] Extractive Text Summarization</u>](https://star-ant-994.notion.site/NLP-Extractive-Text-Summarization-9a1d8508d93e41fa98367adbba2142cc)
-            - [<u>[NLP] Topic Modeling</u>](https://star-ant-994.notion.site/NLP-Topic-Modeling-b39b80f5117d49dd886fc574739a46c6)
+            - [<u>[NLP] Extractive Text Summarization</u>](https://invented-field-fa2.notion.site/NLP-Extractive-Text-Summarization-831535efff4d4420a53feda52c24c19b?pvs=4)
+            - [<u>[NLP] Topic Modeling</u>](https://invented-field-fa2.notion.site/NLP-Topic-Modeling-04095a398fd545f8b285efa9fee53366?pvs=4)
             - [<u>[NLP] Langchain</u>](https://docs.google.com/presentation/d/1UDnSUSyr08B2ysl3rM30GQgE0JtOvLsIgy_yCfCZymQ/edit?usp=sharing)
             - [<u>[Vision] Sora</u>](https://docs.google.com/presentation/d/1A3SvKmuBfW-VZMwx5pJOVdTYsVTWa9Qmz5Y5TvuVzoQ/edit?usp=sharing)
       - title: <b>Fun</b>
@@ -103,8 +103,8 @@ studies:
         tagline: | 
             As an engineer, I gathered useful information for studying and collaborating with people.
         details: |
-            - [<u>[Bitbucket] Tutorial</u>](https://star-ant-994.notion.site/Bitbucket-Tutorial-422d2b869125407388390067f40f0209) 
-            - [<u>[Backend] Django vs. Flask vs. FastAPI</u>](https://star-ant-994.notion.site/Backend-Django-vs-Flask-vs-FastAPI-25c0fa17507d4948b020fc258de086da)
+            - [<u>[Bitbucket] Tutorial</u>](https://invented-field-fa2.notion.site/Bitbucket-Tutorial-ee6ca863fa1c403ca586e2c2b4c7a8d8?pvs=4) 
+            - [<u>[Backend] Django vs. Flask vs. FastAPI</u>](https://invented-field-fa2.notion.site/Backend-Django-vs-Flask-vs-FastAPI-cab6502c729b444183b33514db52b64e?pvs=4)
             - [<u>[Backend] Gunicorn</u>](https://docs.google.com/presentation/d/1nRxdFlfs2IVzlTwC7C1r2L_F7B3QIxA7Un0Hn1nwd5o/edit?usp=sharing)
 
 career-profile:
