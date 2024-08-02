@@ -139,8 +139,15 @@ education:
 
 
 experiences:
+    - role: Senior AI Consultant
+      time: 2024.08 - Present
+      company: KPMG
+      details: |
+        I am currently employed at KPMG as a senior consultant, focusing on the development of an AI platform that offers a range of AI technologies 
+        such as Natural Language Understanding (NLU) and Natural Language Generation (NLG) to our clients.
+        
     - role: Machine Learning Engineer
-      time: 2022.09 - Present
+      time: 2022.09 - 2024.08
       company: Okestro
       details: |
         I am currently working as a machine learning engineer studying NLP.
