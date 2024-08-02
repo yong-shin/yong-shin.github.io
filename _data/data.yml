@@ -110,18 +110,18 @@ studies:
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
-      I graduated M.S. in the Graduate School of Data Science at <a href="https://www.kaist.ac.kr/en/"><u>KAIST</u></a>. I was a member of the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> advised by 
-      <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. I completed my master's research for predicting human emotion using audio and physiological signals. In particular, I analyzed how the counterpart's 
-      data positively affects the speaker's emotion prediction during the naturalistic conversation.
-      <p>I am currently working as a machine learning engineer in <a href="http://www.okestro.com/"><u>Okestro</u></a>  studying Natural Language Processing(NLP).
-      Our team was interested in research on automation of corporate analysis in the area of business intelligence using NLP.
-      We conducted research to provide a service that evaluates companies in real time in a cloud environment.
-      These days, our team is interested in generative models. We are using Retrieval-Augmented Generation to create a chatbot that can answer queries in its domain. 
-      We're utilizing the langchain library that makes this process easier. In addition, we are working on a project to fine-tune an open-source gpt model such as llama to learn knowledge about our domain.
-      </p>
-      <p>Other than academic things, I enjoy exercising. I like sports using rackets such as badminton and tennis.
-      Another hobby is playing Go. The rules are simple, but Go requires very deep strategic thinking, which provides a rest for my busy life.
-      I'm a consistent person. I do my best to carry out any task with responsibility.</p>
+      I graduated with an M.S. from the Graduate School of Data Science at <a href="https://www.kaist.ac.kr/en/"><u>KAIST</u></a>, where I was a member of the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> under the guidance of 
+      <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. My master’s research focused on predicting human emotion using audio and physiological signals, specifically analyzing how the counterpart’s data 
+      positively influences the speaker’s emotion prediction during naturalistic conversations.</p>
+      <p>Previously, I worked as a machine learning engineer at <a href="http://www.okestro.com/"><u>Okestro</u></a>, where I specialized in Natural Language Processing (NLP). Our team was dedicated to automating corporate 
+      analysis in the field of business intelligence using NLP. We developed a service for real-time company evaluation in a cloud environment. We also explored generative models, 
+      including the use of Retrieval-Augmented Generation to create a domain-specific chatbot. In addition, we worked on a project to finetuned an open-source gpt model such as Llama, 
+      Orion to improve the RAG inference ability for GPT.</p>
+      <p>I am currently employed at <a href="https://kpmg.com/xx/en/home.html"><u>KPMG</u></a> as a senior consultant, focusing on the development of an AI platform that offers 
+      a range of AI technologies such as Natural Language Understanding (NLU) and Natural Language Generation (NLG) to our clients. </p>
+      <p>Outside of my professional life, I enjoy staying active through sports, particularly racket games like badminton and tennis. I also find relaxation in 
+      playing Go, a game that, despite its simple rules, requires deep strategic thinking. I am known for my consistency and commitment, always striving to approach tasks with 
+      responsibility and dedication.</p>
       
 #      In addition, I am interested in video and speech synthesis. I am also managing music generation research using GAN(Generative Adversarial Networks).
 #      Unlike this, I previously studied causal analysis. Analyze time-series sensor data using causal techniques such as matching and CCM(Convergent Cross Mapping).
