@@ -149,9 +149,10 @@ experiences:
       time: 2022.09 - 2024.08
       company: Okestro
       details: |
-        I am currently working as a machine learning engineer studying NLP.
-        Our team's attention is directed towards generative models, particularly, the utilization of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries.
-        We are leveraging the langchain library to simplify this process. Furthermore, we are engaged in a project aimed at fine-tuning an open-source GPT model like llama to acquire expertise in our specific domain.
+        I was working as a machine learning engineer studying NLP. Our team’s attention was directed towards generative models, particularly the utilization 
+        of Retrieval-Augmented Generation to build a chatbot capable of responding to domain-specific queries. We were leveraging the langchain library to 
+        simplify this process. Furthermore, we were engaged in a project aimed at fine-tuning an open-source GPT model like llama to acquire expertise in our 
+        specific domain.
 
     - role: Researcher
       time: 2020.08 - 2022.07
