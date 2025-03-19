@@ -239,15 +239,36 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: KPMG | Transforming Industries with AI&#58; A Comprehensive AI Platform
+      - title: KPMG | Trade AI&#58; Revolutionizing Access to U.S. trade administration
         tagline: | 
-            We are currently engaged in the development of a comprehensive AI platform that integrates cutting-edge technologies such as chatbot, data visualization, and specialized data analysis 
-            for the manufacturing sector. Our chatbot system is designed to handle queries across a wide range of domains, providing accurate and context-aware responses. 
-            The visualization system identifies user intent through conversational input and presents relevant charts using various visualization tools.
-            Through this platform, we aim to deliver a robust solution that addresses diverse industry needs while driving efficiency and innovation.
+            We developed a solution that tackles the overwhelming daily document uploads on the U.S. trade administration (https://access.trade.gov/), 
+            eliminating the need for customs experts to manually search through vast amounts of data. By implementing a RAG (Retrieval-Augmented Generation)
+            system, we've created an automated workflow that crawls, collects, and vectorizes documents in a Milvus database, allowing for efficient cosine 
+            similarity searches. Customers can now instantly discover relevant cases and make inquiries about them through our intuitive chatbot interface. 
+            Our query-rewriting technology extracts filtering elements such as year and case codes from customer queries, enabling targeted vector searches 
+            and significantly enhancing performance for customs experts.
         details: |
-            -  [<u>[Video] Data visualization</u>](https://youtu.be/RDYqC5ViCRI)
-            -  [<u>[Video] Data Analysis</u>](https://youtu.be/Eoj_QL1UYDQ)
+            -  [<u>[PPT] Trade AI</u>](https://docs.google.com/presentation/d/1xy64G-OWrt_Cec5OEJwP4cHVWsT6n9bh61ZiFfLlArg/edit?usp=sharing)
+            
+      - title: KPMG | Empowering Security Policy Analysis with AI
+        tagline: | 
+            Reviewing and improving corporate security policies and guidelines is a challenging process that often leads to inconsistent quality based on the reviewer's
+            expertise. Our innovative tool leverages Large Language Models to analyze security policies with consistent performance and accuracy. By utilizing KPMG's
+            extensive database of over 300 security-related resources and AI-powered web searches, we comprehensively review policies to identify missing elements and
+            ensure alignment with the latest security trends. The system delivers rapid, precise assessments while maintaining uniform quality standards regardless of
+            the complexity of the security framework. Additionally, we provide an intuitive chatbot service that allows users to ask questions based on the analysis 
+            results, making security policy management more efficient and effective.
+        details: |
+            -  [<u>[Video] Security Policy Analysis Tool&#58; Powered by AI</u>](https://youtu.be/Eoj_QL1UYDQ)
+      # - title: KPMG | Transforming Industries with AI&#58; A Comprehensive AI Platform
+      #   tagline: | 
+      #       We are currently engaged in the development of a comprehensive AI platform that integrates cutting-edge technologies such as chatbot, data visualization, and specialized data analysis 
+      #       for the manufacturing sector. Our chatbot system is designed to handle queries across a wide range of domains, providing accurate and context-aware responses. 
+      #       The visualization system identifies user intent through conversational input and presents relevant charts using various visualization tools.
+      #       Through this platform, we aim to deliver a robust solution that addresses diverse industry needs while driving efficiency and innovation.
+      #   details: |
+      #       -  [<u>[Video] Data visualization</u>](https://youtu.be/RDYqC5ViCRI)
+      #       -  [<u>[Video] Data Analysis</u>](https://youtu.be/Eoj_QL1UYDQ)
             
       - title: Okestro | Create an LLM model for RAG system
         tagline: | 
