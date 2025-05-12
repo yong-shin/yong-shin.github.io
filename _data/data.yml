@@ -243,6 +243,17 @@ projects:
     assignments:
       - title: KPMG | Trade AI&#58; Revolutionizing Access to U.S. trade administration
         tagline: | 
+            Before sending advertisements to advertisers, companies must undergo preliminary review based on internal advertising regulations. 
+            This preliminary advertising review is not about expertise, but rather a task of meticulously examining content according to internal guidelines. 
+            In other words, it's a simple repetitive task. We developed a service that automates this process using Large Language Models (LLMs). 
+            The system processes advertising data through image conversion, text extraction, and analysis via LLM to evaluate compliance with regulations. 
+            Through this service, company advertising managers can now know the compliance rate of advertisements without needing to conduct preliminary reviews themselves.
+        details: |
+            -  [<u>[PPT] Samsung_ad_PoC</u>](https://docs.google.com/presentation/d/1dDnRib945di0b807KQ7pyAX8_gzIlTReCLa-HHR1fVU/edit?usp=sharing)
+            -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1OICXoLQvxIHGPGxLgziD3tW2zUAnLNZI/view?usp=sharing)
+      
+      - title: KPMG | Trade AI&#58; Revolutionizing Access to U.S. trade administration
+        tagline: | 
             We developed a solution that tackles the overwhelming daily document uploads on the U.S. trade administration (https://access.trade.gov/), 
             eliminating the need for customs experts to manually search through vast amounts of data. By implementing a RAG (Retrieval-Augmented Generation)
             system, we've created an automated workflow that crawls, collects, and vectorizes documents in a Milvus database, allowing for efficient cosine 
