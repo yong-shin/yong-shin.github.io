@@ -245,8 +245,7 @@ projects:
         tagline: | 
             We have developed an AI-powered platform that automates the most time-consuming aspects of corporate information security disclosure&#58; classifying IT and security expense ledgers and calculating costs. 
             Leveraging AI-based keyword classification, the system automatically identifies security-related entries in accounting data and extracts the information needed for headcount cost estimation, cutting preparation time by up to 90%. 
-            What once took large enterprises weeks can now be completed within a single day, while human-error risks are dramatically reduced and disclosure data accuracy is enhanced. 
-            Beyond operational efficiency, our solution delivers significant cost savings, and we will soon offer it as a SaaS subscription so organizations can harness its full potential independently.
+            What once took large enterprises weeks can now be completed within a single day, while human-error risks are dramatically reduced and disclosure data accuracy is enhanced.
         details: |
             -  [<u>[PPT] Information Security Disclosure AI</u>](https://docs.google.com/presentation/d/1YF2Mjg39UGWne85dkxrGqGe1Y_DGP3ndLtMZGiV8czs/edit?usp=sharing)
             -  [<u>[Article] KPMG Launches AI-Based Smart Information Security Disclosure Automation Platform</u>](https://www.datanet.co.kr/news/articleView.html?idxno=201925)
