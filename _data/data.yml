@@ -110,7 +110,7 @@ studies:
 career-profile:
     title: Welcome to Yongshin's page
     summary: |
-      I completed an M.S. at the Graduate School of Data Science at KAIST, where I had the privilege of working in the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> under the mentorship of <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. 
+      I completed an M.S. at the <a href="https://gsds.kaist.ac.kr/eng"><u>Graduate School of Data Science</u></a> at KAIST, where I had the privilege of working in the <a href="https://ic.kaist.ac.kr/"><u>Interactive Computing Lab</u></a> under the mentorship of <a href="https://scholar.google.co.kr/citations?user=Sc2pBzYAAAAJ"><u>Prof. Uichin Lee</u></a>. 
       My master's research centered on predicting human emotions through audio and physiological signals, with a particular focus on how data from conversation partners can enhance the accuracy of emotion predictions for speakers during naturalistic interactions.      
       <p>Previously, I worked as a machine learning engineer at <a href="http://www.okestro.com/"><u>Okestro</u></a>, where I specialized in Natural Language Processing (NLP). Our team was dedicated to automating corporate 
       analysis in the field of business intelligence using NLP. We developed a service for real-time company evaluation in a cloud environment. We also explored generative models, 
