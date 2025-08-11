@@ -241,11 +241,21 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: KPMG | AI-Based Automated Material Analysis System
+        tagline: | 
+            We developed an AI-powered solution that automates materials master data management for Korea's leading energy and petrochemical company. The system transforms manual vendor print (VP) analysis and material specification 
+            extraction into an automated process, reducing annual registration time from 550+ hours to just 24 hours. Leveraging GPT-based analysis and standardized rule books, our platform automatically extracts material 
+            attributes from technical documents, standardizes data formats across 8 major categories, and integrates seamlessly with ERP systems. What once required weeks of manual work for large projects can now be completed 
+            within days, while eliminating human errors and preventing approximately 8.8 billion KRW in annual duplicate material purchases through improved data accuracy and standardization.
+        details: |
+            -  [<u>[PPT] Smart Material Management</u>](https://docs.google.com/presentation/d/1-fgiVZtJbo36KohR6fJZBu75Bt4WuwQH3vgdQ5Jr4Yc/edit?usp=sharing)
+            -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1BEbWqz2uK3pGVNDFLjxxis14agtcTG4d/view?usp=drive_link)
+            
       - title: KPMG | AI-Driven Smart Information Security Disclosure Automation Platform
         tagline: | 
-            We have developed an AI-powered platform that automates the most time-consuming aspects of corporate information security disclosure&#58; classifying IT and security expense ledgers and calculating costs. 
-            Leveraging AI-based keyword classification, the system automatically identifies security-related entries in accounting data and extracts the information needed for headcount cost estimation, cutting preparation time by up to 90%. 
-            What once took large enterprises weeks can now be completed within a single day, while human-error risks are dramatically reduced and disclosure data accuracy is enhanced.
+            We developed an AI-powered platform that automated the most time-consuming aspects of corporate information security disclosure&#58; classifying IT and security expense ledgers and calculating costs.
+            Leveraging AI-based keyword classification, the system automatically identified security-related entries in accounting data and extracted the information needed for headcount cost estimation, cutting preparation time by up to 90%.
+            What once took large enterprises weeks could then be completed within a single day, while human-error risks were dramatically reduced and disclosure data accuracy was enhanced.
         details: |
             -  [<u>[PPT] Information Security Disclosure AI</u>](https://docs.google.com/presentation/d/1YF2Mjg39UGWne85dkxrGqGe1Y_DGP3ndLtMZGiV8czs/edit?usp=sharing)
             -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1DBh1nAKNEMjz775tiS9NVCkE1KxLooSD/view?usp=drive_link)
