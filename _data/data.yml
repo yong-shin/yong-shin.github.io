@@ -243,10 +243,11 @@ projects:
     assignments:
       - title: KPMG | AI-Based Automated Material Analysis System
         tagline: | 
-            We developed an AI-powered solution that automates materials master data management for Korea's leading energy and petrochemical company. The system transforms manual vendor print (VP) analysis and material specification 
-            extraction into an automated process, reducing annual registration time from 550+ hours to just 24 hours. Leveraging GPT-based analysis and standardized rule books, our platform automatically extracts material 
-            attributes from technical documents, standardizes data formats across 8 major categories, and integrates seamlessly with ERP systems. What once required weeks of manual work for large projects can now be completed 
-            within days, while eliminating human errors and preventing approximately 8.8 billion KRW in annual duplicate material purchases through improved data accuracy and standardization.
+            We developed an AI-powered system that automates the most labor-intensive aspects of material master registration&#58; extracting specifications from vendor documents, 
+            standardizing attribute formats, and integrating directly into ERP. By leveraging AI-based text mining and a refined Rule Book for class-specific attribute rules, 
+            the solution automatically processes vendor prints, recommends standardized values, and detects duplicates before registration. This innovation reduced manual registration 
+            time from 10–15 minutes per material to under a minute—cutting annual workload by more than 700 hours and, for large-scale projects, over 3,300 hours. The system also prevents 
+            costly duplicate or “no-code” purchases, expected to save up to ₩1.3 billion annually, while delivering a unified, high-quality material master database.
         details: |
             -  [<u>[PPT] Smart Material Management</u>](https://docs.google.com/presentation/d/1-fgiVZtJbo36KohR6fJZBu75Bt4WuwQH3vgdQ5Jr4Yc/edit?usp=sharing)
             -  [<u>[Video] Demo</u>](https://drive.google.com/file/d/1BEbWqz2uK3pGVNDFLjxxis14agtcTG4d/view?usp=drive_link)
