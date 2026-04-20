@@ -241,6 +241,29 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: KPMG | AI-Powered Proposal Finder
+        tagline: | 
+            We developed an AI-powered service designed to address one of the most time-consuming challenges for consultants&#58; searching for relevant past project proposals.  
+            Traditionally, identifying suitable reference proposals requires extensive manual effort and deep domain knowledge. 
+            Proposal Finder transforms this process by enabling natural language search, allowing users to describe their needs intuitively.  
+            Leveraging advanced query rewriting and tagging-based search technologies, the system refines user input into optimized search queries and matches them against a structured proposal database. 
+            This enables rapid discovery of highly relevant proposals, even when exact keywords are not provided.  
+            As a result, consultants can significantly reduce time spent on research, improve proposal quality through better references, and focus more on high-value strategic work rather than manual document retrieval.
+        details: |
+            -  [<u>[PPT] Proposal Finder</u>](https://docs.google.com/presentation/d/1YAyXTaLoV815kN1sZLOn-EsjW1k47U3bsgT-ozFo6RU/edit?usp=sharing)
+
+      - title: KPMG | Kbank Loan & Deposit Automation System
+        tagline: | 
+            In banking operations, reviewing documents for lending and deposit decisions is complex and time-consuming.
+            Institutions must examine corporate bylaws, terms, and authorization documents to assess eligibility and collateral.
+            We developed an AI-powered automation system that streamlines the entire review workflow for lending and deposit operations.
+            By simply uploading key documents such as corporate bylaws, the system automatically identifies required review items, analyzes document content, and generates structured evaluation results.
+            Leveraging advanced document understanding and LLM-based reasoning, it reduces manual effort, accelerates decision-making, and ensures consistent, scalable review quality.
+        details: |
+            -  [<u>[PPT] Loan & Deposit Automation</u>](https://docs.google.com/presentation/d/1ulW8rp6r0cwi53zuq8z1lZzt6RSuGmO2fMTYGVbKp7o/edit?usp=sharing)
+            -  [<u>[Video] Loan</u>](https://drive.google.com/file/d/1OQrUU2ZelCIXTgz-TSkG3dcXsdsVPSH6/view?usp=sharing)
+            -  [<u>[Video] Deposit</u>](https://drive.google.com/file/d/1Dbq98zq_g_4Aaq__rzrTOHyp0in82fnV/view?usp=sharing)
+
       - title: KPMG | AI-Based Automated Material Analysis System
         tagline: | 
             We developed an AI-powered system that automates the most labor-intensive aspects of material master registration&#58; extracting specifications from vendor documents, 
